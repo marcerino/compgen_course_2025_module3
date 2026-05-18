@@ -1,0 +1,16 @@
+experiment1	DirectPred	mutation	early	NA
+experiment2	DirectPred	mutation,rna	early	NA
+experiment3	DirectPred	mutation,rna	intermediate	NA
+experiment4	DirectPred	mutation,cnv	early	NA
+experiment5	DirectPred	mutation,cnv	intermediate	NA
+experiment6	supervised_vae	mutation	early	NA
+experiment7	supervised_vae	mutation,rna	early	NA
+experiment8	supervised_vae	mutation,rna	intermediate	NA
+experiment9	supervised_vae	mutation,cnv	early	NA
+experiment10	supervised_vae	mutation,cnv	intermediate	NA
+experiment11	GNN	mutation	early	GC
+experiment12	GNN	mutation	early	SAGE
+experiment13	GNN	mutation,rna	early	GC
+experiment14	GNN	mutation,rna	early	SAGE
+experiment15	GNN	mutation,cnv	early	GC
+experiment16	GNN	mutation,cnv	early	SAGE

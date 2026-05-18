@@ -1,0 +1,4 @@
+method,var,variable_type,metric,value
+DirectPred,Erlotinib,numerical,mse,0.005634613800793886
+DirectPred,Erlotinib,numerical,r2,0.16531125720961515
+DirectPred,Erlotinib,numerical,pearson_corr,0.40658487085676853

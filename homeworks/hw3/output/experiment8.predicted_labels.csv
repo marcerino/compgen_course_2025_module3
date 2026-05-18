@@ -1,0 +1,1635 @@
+sample_id,variable,class_label,probability,known_label,predicted_label,split,method
+Hs 895.T,Erlotinib,,,0.04018842801451683,0.04058051481842995,train,supervised_vae
+NCI-H460,Erlotinib,,,0.015685027465224266,0.0,train,supervised_vae
+HCC2935,Erlotinib,,,0.3644941747188568,0.36521536111831665,train,supervised_vae
+YMB-1,Erlotinib,,,,0.16757187247276306,train,supervised_vae
+ME-1 [Human leukemia],Erlotinib,,,,0.051777858287096024,train,supervised_vae
+OPM-2,Erlotinib,,,0.0670311376452446,0.07585956156253815,train,supervised_vae
+LN-229,Erlotinib,,,0.08689193427562714,0.022482069209218025,train,supervised_vae
+CAL-33,Erlotinib,,,,0.22732838988304138,train,supervised_vae
+P31/FUJ,Erlotinib,,,0.010075471363961697,0.05571078509092331,train,supervised_vae
+SK-RC-20,Erlotinib,,,,0.03790922835469246,train,supervised_vae
+HOS,Erlotinib,,,0.0,0.0021261454094201326,train,supervised_vae
+JHUEM-2,Erlotinib,,,0.025869473814964294,0.03327169269323349,train,supervised_vae
+OVTOKO,Erlotinib,,,0.10582002997398376,0.0996069684624672,train,supervised_vae
+Kasumi-1,Erlotinib,,,,0.07296775281429291,train,supervised_vae
+GB-1,Erlotinib,,,0.05240587517619133,0.07053971290588379,train,supervised_vae
+KMRC-20,Erlotinib,,,,0.09316116571426392,train,supervised_vae
+PK-45H,Erlotinib,,,0.040951505303382874,0.036829445511102676,train,supervised_vae
+HCC70,Erlotinib,,,0.08828119933605194,0.08015480637550354,train,supervised_vae
+Hs 766T,Erlotinib,,,0.09911269694566727,0.09627387672662735,train,supervised_vae
+Hs 936.T,Erlotinib,,,0.014631255529820919,0.008258646354079247,train,supervised_vae
+NCI-H520,Erlotinib,,,0.0,0.0,train,supervised_vae
+NCI-H727,Erlotinib,,,0.014224999584257603,0.0,train,supervised_vae
+Panc 05.04,Erlotinib,,,,0.10384899377822876,train,supervised_vae
+B-CPAP,Erlotinib,,,0.026610318571329117,0.04234512895345688,train,supervised_vae
+MHH-CALL-2,Erlotinib,,,,0.11345158517360687,train,supervised_vae
+U266B1,Erlotinib,,,,0.02217830717563629,train,supervised_vae
+SCLC-21H,Erlotinib,,,,0.002704293467104435,train,supervised_vae
+GSS,Erlotinib,,,,0.07054165005683899,train,supervised_vae
+SNU-407,Erlotinib,,,,0.1094522550702095,train,supervised_vae
+HuH-1,Erlotinib,,,0.04100503399968147,0.033586129546165466,train,supervised_vae
+IMR-32,Erlotinib,,,0.0,0.0010351284872740507,train,supervised_vae
+NCI-N87,Erlotinib,,,0.09161164611577988,0.06566127389669418,train,supervised_vae
+COLO 775,Erlotinib,,,,0.016561022028326988,train,supervised_vae
+KYSE-70,Erlotinib,,,0.17171168327331543,0.02973489835858345,train,supervised_vae
+G-361,Erlotinib,,,0.07832533121109009,0.11482924968004227,train,supervised_vae
+SNU-466,Erlotinib,,,,0.040757544338703156,train,supervised_vae
+UACC-893,Erlotinib,,,,0.11782628297805786,train,supervised_vae
+CMK-11-5,Erlotinib,,,,0.06261570006608963,train,supervised_vae
+COV362,Erlotinib,,,,0.07210895419120789,train,supervised_vae
+HLF,Erlotinib,,,0.019748220220208168,0.020250551402568817,train,supervised_vae
+CHL-1,Erlotinib,,,0.13103163242340088,0.15640775859355927,train,supervised_vae
+EW-8,Erlotinib,,,,0.05200187861919403,train,supervised_vae
+JHH-7,Erlotinib,,,0.06400319188833237,0.09172582626342773,train,supervised_vae
+L3.3,Erlotinib,,,0.12835821509361267,0.09716197103261948,train,supervised_vae
+CAL-51,Erlotinib,,,,0.19115784764289856,train,supervised_vae
+KALS-1,Erlotinib,,,0.03612568601965904,0.03103378787636757,train,supervised_vae
+HEL 92.1.7,Erlotinib,,,0.017781322821974754,0.03501322120428085,train,supervised_vae
+OAW28,Erlotinib,,,,0.18737486004829407,train,supervised_vae
+PCM6,Erlotinib,,,,0.051320016384124756,train,supervised_vae
+SNU-449,Erlotinib,,,0.058517977595329285,0.07970069348812103,train,supervised_vae
+Becker,Erlotinib,,,,0.02514241449534893,train,supervised_vae
+HT-1080,Erlotinib,,,0.015392986126244068,0.005214641336351633,train,supervised_vae
+KMRC-1,Erlotinib,,,0.1492006480693817,0.16623294353485107,train,supervised_vae
+OUMS-27,Erlotinib,,,,0.043991368263959885,train,supervised_vae
+59M,Erlotinib,,,,0.0583181157708168,train,supervised_vae
+SNU-81,Erlotinib,,,,0.06255820393562317,train,supervised_vae
+DND-41,Erlotinib,,,,0.09641411900520325,train,supervised_vae
+NCI-H1734,Erlotinib,,,,0.09395826607942581,train,supervised_vae
+NCI-H1694,Erlotinib,,,0.0,0.00015305352280847728,train,supervised_vae
+NCI-H2286,Erlotinib,,,0.09505584090948105,0.07808977365493774,train,supervised_vae
+RCC10RGB,Erlotinib,,,,0.22645950317382812,train,supervised_vae
+RT-112,Erlotinib,,,0.056365255266427994,0.17684656381607056,train,supervised_vae
+VMRC-LCD,Erlotinib,,,9.304741628883215e-16,0.0,train,supervised_vae
+OAW42,Erlotinib,,,,0.12437516450881958,train,supervised_vae
+COV504,Erlotinib,,,0.0711984634399414,0.07612865418195724,train,supervised_vae
+NCI-H358,Erlotinib,,,0.1887504607439041,0.15833334624767303,train,supervised_vae
+Hs 698.T,Erlotinib,,,,0.028511974960565567,train,supervised_vae
+CJM [Human melanoma],Erlotinib,,,,0.16272173821926117,train,supervised_vae
+Calu-3,Erlotinib,,,0.13969959318637848,0.16650286316871643,train,supervised_vae
+MKN45,Erlotinib,,,0.027027567848563194,0.09476246684789658,train,supervised_vae
+Toledo,Erlotinib,,,0.0,0.05861085653305054,train,supervised_vae
+HCC2157,Erlotinib,,,,0.10832241177558899,train,supervised_vae
+NCI-H1623,Erlotinib,,,,0.2107086330652237,train,supervised_vae
+Li-7,Erlotinib,,,,0.08379422128200531,train,supervised_vae
+SU-DHL-6,Erlotinib,,,0.0,0.024440187960863113,train,supervised_vae
+RERF-LC-Ad1,Erlotinib,,,,0.14836357533931732,train,supervised_vae
+NUGC-4,Erlotinib,,,0.35449543595314026,0.3542914390563965,train,supervised_vae
+SUP-HD1,Erlotinib,,,,-0.0027226824313402176,train,supervised_vae
+HSC-4,Erlotinib,,,,0.11081983894109726,train,supervised_vae
+HCC44,Erlotinib,,,0.0068970308639109135,0.013310958631336689,train,supervised_vae
+Huh-7,Erlotinib,,,,0.11685173958539963,train,supervised_vae
+SNU-216,Erlotinib,,,,0.16539888083934784,train,supervised_vae
+HCC2814,Erlotinib,,,,0.22560355067253113,train,supervised_vae
+SW403,Erlotinib,,,0.12285277247428894,0.08618083596229553,train,supervised_vae
+KYM-1,Erlotinib,,,0.0,-0.001030066516250372,train,supervised_vae
+A101D,Erlotinib,,,,0.018872953951358795,train,supervised_vae
+VMRC-LCP,Erlotinib,,,,0.18649688363075256,train,supervised_vae
+WM266-4,Erlotinib,,,0.013118494302034378,0.01287880353629589,train,supervised_vae
+KS-1 [Human glioblastoma],Erlotinib,,,,0.05243413895368576,train,supervised_vae
+LN-382,Erlotinib,,,,0.10034874081611633,train,supervised_vae
+8-MG-BA,Erlotinib,,,0.07423067092895508,0.07436686009168625,train,supervised_vae
+CMK-86,Erlotinib,,,0.07315269857645035,0.08636902272701263,train,supervised_vae
+TCCSUP,Erlotinib,,,0.0053850989788770676,0.00727018341422081,train,supervised_vae
+Hs 819.T,Erlotinib,,,,0.02693558670580387,train,supervised_vae
+JH-EsoAd1,Erlotinib,,,,0.08724360913038254,train,supervised_vae
+Hs 939.T,Erlotinib,,,0.018996980041265488,0.018335100263357162,train,supervised_vae
+SW900,Erlotinib,,,0.032573848962783813,0.03379372879862785,train,supervised_vae
+D283 Med,Erlotinib,,,,0.0014546408783644438,train,supervised_vae
+SK-MEL-3,Erlotinib,,,,0.04403644800186157,train,supervised_vae
+BHY,Erlotinib,,,,0.23779866099357605,train,supervised_vae
+MHH-ES-1,Erlotinib,,,0.08771762996912003,0.06239146366715431,train,supervised_vae
+HPAF-II,Erlotinib,,,0.06233073025941849,0.05485992133617401,train,supervised_vae
+Mono-Mac-1,Erlotinib,,,0.12792180478572845,0.14181922376155853,train,supervised_vae
+HCC1143,Erlotinib,,,,0.25720253586769104,train,supervised_vae
+RD,Erlotinib,,,0.002177261747419834,0.003106452524662018,train,supervised_vae
+NH-6,Erlotinib,,,,0.0030182721093297005,train,supervised_vae
+23132/87,Erlotinib,,,,0.17012299597263336,train,supervised_vae
+MDA-MB-436,Erlotinib,,,0.06565015763044357,0.07868310809135437,train,supervised_vae
+KNS-60,Erlotinib,,,0.008071512915194035,0.01420059148222208,train,supervised_vae
+MOR/CPR,Erlotinib,,,0.050237566232681274,0.035336170345544815,train,supervised_vae
+DV-90,Erlotinib,,,0.14565078914165497,0.10740682482719421,train,supervised_vae
+MDA-MB-453,Erlotinib,,,0.02901134081184864,0.01661156862974167,train,supervised_vae
+UM-RC-6,Erlotinib,,,,0.1143217384815216,train,supervised_vae
+CADO-ES1,Erlotinib,,,,0.014283984899520874,train,supervised_vae
+LN-308,Erlotinib,,,,0.1270323395729065,train,supervised_vae
+OC 316,Erlotinib,,,0.034157849848270416,0.02826104685664177,train,supervised_vae
+NCI-H524,Erlotinib,,,,0.0036318961065262556,train,supervised_vae
+Hs 172.T,Erlotinib,,,,0.03697667270898819,train,supervised_vae
+KE-37,Erlotinib,,,,0.07135552167892456,train,supervised_vae
+LN-340,Erlotinib,,,,0.1093553751707077,train,supervised_vae
+U-118MG,Erlotinib,,,0.007053320296108723,0.02281458117067814,train,supervised_vae
+Hs 578T,Erlotinib,,,0.013234484009444714,0.03507757559418678,train,supervised_vae
+Hs 255.T,Erlotinib,,,,0.043485745787620544,train,supervised_vae
+LOU-NH91,Erlotinib,,,0.14603012800216675,0.1493881642818451,train,supervised_vae
+FaDu,Erlotinib,,,0.20236626267433167,0.20643651485443115,train,supervised_vae
+Namalwa,Erlotinib,,,,0.036290038377046585,train,supervised_vae
+NCI-H441,Erlotinib,,,0.03614166006445885,0.09754706919193268,train,supervised_vae
+SH-4,Erlotinib,,,,0.0467798076570034,train,supervised_vae
+Calu-6,Erlotinib,,,0.02324351668357849,0.026266461238265038,train,supervised_vae
+S-117,Erlotinib,,,,0.04954882711172104,train,supervised_vae
+SW48,Erlotinib,,,0.3432353436946869,0.28053998947143555,train,supervised_vae
+JHOS-4,Erlotinib,,,0.12377795577049255,0.16590052843093872,train,supervised_vae
+HCC1833,Erlotinib,,,,0.0021927698981016874,train,supervised_vae
+P12-Ichikawa,Erlotinib,,,0.04233955964446068,0.04527046158909798,train,supervised_vae
+BFTC-909,Erlotinib,,,0.02699008584022522,0.0395013764500618,train,supervised_vae
+LN-235,Erlotinib,,,,0.13262486457824707,train,supervised_vae
+UOK101,Erlotinib,,,,0.13609418272972107,train,supervised_vae
+Panc 02.03,Erlotinib,,,0.12672166526317596,0.11642639338970184,train,supervised_vae
+Hs 863.T,Erlotinib,,,,0.0528496578335762,train,supervised_vae
+JL-1,Erlotinib,,,,0.09723157435655594,train,supervised_vae
+A3/Kawakami,Erlotinib,,,,-0.00031116497120819986,train,supervised_vae
+SLR20,Erlotinib,,,,0.06529538333415985,train,supervised_vae
+FU-OV-1,Erlotinib,,,0.11616449058055878,0.16809234023094177,train,supervised_vae
+ONCO-DG-1,Erlotinib,,,0.1428801268339157,0.20572584867477417,train,supervised_vae
+Hs 281.T,Erlotinib,,,,0.029485292732715607,train,supervised_vae
+NCI-H660,Erlotinib,,,,0.029432568699121475,train,supervised_vae
+COLO 201,Erlotinib,,,0.020721299573779106,0.013161540031433105,train,supervised_vae
+PE/CA-PJ41 (clone D2),Erlotinib,,,,0.2863447070121765,train,supervised_vae
+SNU-1196,Erlotinib,,,,0.010152002796530724,train,supervised_vae
+NCI-H526,Erlotinib,,,,0.00057559012202546,train,supervised_vae
+639V,Erlotinib,,,,0.08967804908752441,train,supervised_vae
+WM983B,Erlotinib,,,0.012461467646062374,0.02027853950858116,train,supervised_vae
+BEN,Erlotinib,,,,0.002071067225188017,train,supervised_vae
+MHH-NB-11,Erlotinib,,,,0.005720910616219044,train,supervised_vae
+SET-2,Erlotinib,,,,0.06018637493252754,train,supervised_vae
+PF-382,Erlotinib,,,,0.08695096522569656,train,supervised_vae
+SNU-478,Erlotinib,,,,0.1316918134689331,train,supervised_vae
+IPC-298,Erlotinib,,,0.05289856344461441,0.059722915291786194,train,supervised_vae
+VMRC-RCW,Erlotinib,,,0.009323783218860626,0.008906173519790173,train,supervised_vae
+CAL-78,Erlotinib,,,0.03013685718178749,0.04097007215023041,train,supervised_vae
+CAL-120,Erlotinib,,,,0.08000193536281586,train,supervised_vae
+HCC1500,Erlotinib,,,,0.12499028444290161,train,supervised_vae
+Hs 611.T,Erlotinib,,,,0.025722861289978027,train,supervised_vae
+IST-Mes2,Erlotinib,,,0.025352122262120247,0.014158721081912518,train,supervised_vae
+J82,Erlotinib,,,0.04316093027591705,0.041342176496982574,train,supervised_vae
+LMSU,Erlotinib,,,,0.060867905616760254,train,supervised_vae
+RKN,Erlotinib,,,0.021037394180893898,0.014600519090890884,train,supervised_vae
+SNU-1272,Erlotinib,,,,0.16437405347824097,train,supervised_vae
+WM88,Erlotinib,,,0.004658939782530069,0.0036432447377592325,train,supervised_vae
+MFE-296,Erlotinib,,,0.10578947514295578,0.11297035217285156,train,supervised_vae
+HD-MY-Z,Erlotinib,,,0.0841427892446518,0.07608918100595474,train,supervised_vae
+NCI-H2023,Erlotinib,,,0.019692206755280495,0.021873632445931435,train,supervised_vae
+OUMS-23,Erlotinib,,,,0.06884369254112244,train,supervised_vae
+HEC-50B,Erlotinib,,,,0.03942686691880226,train,supervised_vae
+SNU-387,Erlotinib,,,0.013762500137090683,0.020180867984890938,train,supervised_vae
+HCC1954,Erlotinib,,,0.10922294855117798,0.1289268583059311,train,supervised_vae
+CL-34,Erlotinib,,,,0.11051314324140549,train,supervised_vae
+TE-5,Erlotinib,,,0.026737511157989502,0.04284875839948654,train,supervised_vae
+Hs 751.T,Erlotinib,,,,0.02509763278067112,train,supervised_vae
+NCI-H2087,Erlotinib,,,0.07736940681934357,0.11905799806118011,train,supervised_vae
+COLO 668,Erlotinib,,,,0.002700062934309244,train,supervised_vae
+EWS-502,Erlotinib,,,,0.0451493114233017,train,supervised_vae
+L-1236,Erlotinib,,,,-0.0015971220564097166,train,supervised_vae
+LP-1,Erlotinib,,,0.0,0.005019300617277622,train,supervised_vae
+SUIT-2,Erlotinib,,,0.12975502014160156,0.1413830816745758,train,supervised_vae
+BT-549,Erlotinib,,,0.019565638154745102,0.04765944182872772,train,supervised_vae
+Hs 737.T,Erlotinib,,,,0.03025675192475319,train,supervised_vae
+CAL-85-1,Erlotinib,,,0.2859991192817688,0.272502601146698,train,supervised_vae
+KMS-18,Erlotinib,,,,0.04340435191988945,train,supervised_vae
+HEC-6,Erlotinib,,,0.0,0.0007662501302547753,train,supervised_vae
+YD-8,Erlotinib,,,,0.12753424048423767,train,supervised_vae
+OELE,Erlotinib,,,,0.09479181468486786,train,supervised_vae
+SNU-1105,Erlotinib,,,,0.021201513707637787,train,supervised_vae
+697,Erlotinib,,,0.10943935066461563,0.13583768904209137,train,supervised_vae
+HMEL,Erlotinib,,,,0.16341091692447662,train,supervised_vae
+NCI-H2227,Erlotinib,,,,0.0026566723827272654,train,supervised_vae
+BFTC-905,Erlotinib,,,,0.2070765346288681,train,supervised_vae
+ST486,Erlotinib,,,,0.04308375343680382,train,supervised_vae
+AMO1,Erlotinib,,,0.04056181013584137,0.06137637048959732,train,supervised_vae
+SNU-C4,Erlotinib,,,,0.08544376492500305,train,supervised_vae
+HCC2108,Erlotinib,,,,0.011612378060817719,train,supervised_vae
+TUHR10TKB,Erlotinib,,,,0.1397692710161209,train,supervised_vae
+SEM,Erlotinib,,,,0.06325051933526993,train,supervised_vae
+ESS-1,Erlotinib,,,0.0676722377538681,0.07063230872154236,train,supervised_vae
+NCI-H1618,Erlotinib,,,,0.0028494352009147406,train,supervised_vae
+COLO 684,Erlotinib,,,,0.02224305458366871,train,supervised_vae
+COR-L279,Erlotinib,,,,0.0053091333247721195,train,supervised_vae
+HDLM-2,Erlotinib,,,,0.005788192618638277,train,supervised_vae
+Karpas-422,Erlotinib,,,0.0,0.003920380491763353,train,supervised_vae
+CHP-126,Erlotinib,,,,0.002452742774039507,train,supervised_vae
+Hs 834.T,Erlotinib,,,,0.05932634696364403,train,supervised_vae
+HCC1171,Erlotinib,,,,0.16152846813201904,train,supervised_vae
+22Rv1,Erlotinib,,,0.005032097455114126,0.10144424438476562,train,supervised_vae
+HuT 102,Erlotinib,,,,0.018373552709817886,train,supervised_vae
+NCI-H1869,Erlotinib,,,0.152424156665802,0.1388607770204544,train,supervised_vae
+NCI-H2122,Erlotinib,,,0.0913124531507492,0.1410825401544571,train,supervised_vae
+NCO2,Erlotinib,,,0.10569243878126144,0.108417809009552,train,supervised_vae
+RD-ES,Erlotinib,,,,0.03390951082110405,train,supervised_vae
+HCC2218,Erlotinib,,,,0.11940369009971619,train,supervised_vae
+MV4-11,Erlotinib,,,,0.08749396353960037,train,supervised_vae
+COLO 205,Erlotinib,,,0.05243299528956413,0.037199392914772034,train,supervised_vae
+NU-DUL-1,Erlotinib,,,,0.06035347282886505,train,supervised_vae
+Pfeiffer,Erlotinib,,,0.1284427046775818,0.0479046106338501,train,supervised_vae
+A4/Fukuda,Erlotinib,,,,0.00964387133717537,train,supervised_vae
+IGR-1,Erlotinib,,,,0.02841169759631157,train,supervised_vae
+TIG-3 TD,Erlotinib,,,,0.05578675866127014,train,supervised_vae
+769-P,Erlotinib,,,0.25329986214637756,0.2588244080543518,train,supervised_vae
+THP-1,Erlotinib,,,,0.08244062960147858,train,supervised_vae
+EB1,Erlotinib,,,0.005754662677645683,0.015384628437459469,train,supervised_vae
+SK-MEL-1,Erlotinib,,,,0.08453743159770966,train,supervised_vae
+ECC12,Erlotinib,,,,0.010211917571723461,train,supervised_vae
+MKN1,Erlotinib,,,,0.03371332585811615,train,supervised_vae
+NCI-H1650,Erlotinib,,,0.2207937389612198,0.2100200653076172,train,supervised_vae
+SNU-503,Erlotinib,,,,0.17023509740829468,train,supervised_vae
+C2BBe1,Erlotinib,,,0.15984268486499786,0.1606578230857849,train,supervised_vae
+Granta-519,Erlotinib,,,0.032702624797821045,0.049328770488500595,train,supervised_vae
+SNU-1040,Erlotinib,,,,0.12067852169275284,train,supervised_vae
+U-138MG,Erlotinib,,,,0.024835389107465744,train,supervised_vae
+NCC-StC-K140,Erlotinib,,,,0.1867656409740448,train,supervised_vae
+SNU-213,Erlotinib,,,,0.13794691860675812,train,supervised_vae
+BCP-1,Erlotinib,,,,0.016649900004267693,train,supervised_vae
+CGTH-W-1,Erlotinib,,,,0.024798138067126274,train,supervised_vae
+GSU,Erlotinib,,,,0.10162384808063507,train,supervised_vae
+JHOM-1,Erlotinib,,,,0.05319342389702797,train,supervised_vae
+MKN7,Erlotinib,,,0.010533550754189491,0.1858498752117157,train,supervised_vae
+Mel Ho,Erlotinib,,,0.021324850618839264,0.025880951434373856,train,supervised_vae
+TE 125.T,Erlotinib,,,,0.03412339836359024,train,supervised_vae
+SW1990,Erlotinib,,,0.05235902965068817,0.0586172491312027,train,supervised_vae
+SK-MEL-28,Erlotinib,,,,0.0,train,supervised_vae
+IGR-37,Erlotinib,,,0.03262731060385704,0.020481575280427933,train,supervised_vae
+COLO 783,Erlotinib,,,,0.028300225734710693,train,supervised_vae
+MEC-1,Erlotinib,,,0.008480126969516277,0.03715916723012924,train,supervised_vae
+SW1271,Erlotinib,,,0.01700293831527233,0.01393871009349823,train,supervised_vae
+BICR 18,Erlotinib,,,,0.13589128851890564,train,supervised_vae
+F-36P,Erlotinib,,,0.016780167818069458,0.043013930320739746,train,supervised_vae
+KMS-27,Erlotinib,,,,0.06966514885425568,train,supervised_vae
+Capan-2,Erlotinib,,,0.05558851733803749,0.0471242219209671,train,supervised_vae
+JHH-5,Erlotinib,,,0.2246560901403427,0.21841439604759216,train,supervised_vae
+MUTZ-5,Erlotinib,,,,0.0857766792178154,train,supervised_vae
+MM1.S,Erlotinib,,,,0.034156039357185364,train,supervised_vae
+Panc 10.05,Erlotinib,,,0.05654756352305412,0.03158547729253769,train,supervised_vae
+RVH-421,Erlotinib,,,0.0070321024395525455,0.02568567730486393,train,supervised_vae
+EFM-19,Erlotinib,,,0.004981904290616512,0.008870281279087067,train,supervised_vae
+Hs 229.T,Erlotinib,,,0.0,0.051244769245386124,train,supervised_vae
+Kasumi-2,Erlotinib,,,0.05147402733564377,0.08258056640625,train,supervised_vae
+Hs 571.T,Erlotinib,,,,0.019608795642852783,train,supervised_vae
+DoHH2,Erlotinib,,,0.0,0.029245853424072266,train,supervised_vae
+SNU-1041,Erlotinib,,,,0.1604304313659668,train,supervised_vae
+SK-UT-1,Erlotinib,,,,0.016584506258368492,train,supervised_vae
+HCC2279,Erlotinib,,,,0.06961269676685333,train,supervised_vae
+Hs 294T,Erlotinib,,,0.03162425011396408,0.03348046541213989,train,supervised_vae
+OCI-AML-5,Erlotinib,,,0.04101958125829697,0.08164313435554504,train,supervised_vae
+TT,Erlotinib,,,,0.002612798474729061,train,supervised_vae
+BC-3C,Erlotinib,,,,0.06876884400844574,train,supervised_vae
+HCT 116,Erlotinib,,,0.02919105254113674,0.015268153510987759,train,supervised_vae
+DMS 79,Erlotinib,,,,0.0,train,supervised_vae
+KE-39,Erlotinib,,,0.1750926673412323,0.09867394715547562,train,supervised_vae
+SR,Erlotinib,,,,0.030385460704565048,train,supervised_vae
+Hs 944.T,Erlotinib,,,0.02216356247663498,0.019467812031507492,train,supervised_vae
+SNU-245,Erlotinib,,,,0.12602628767490387,train,supervised_vae
+NCI-H661,Erlotinib,,,0.0029913890175521374,0.012347863987088203,train,supervised_vae
+HCC1588,Erlotinib,,,,0.1038554459810257,train,supervised_vae
+CL-40,Erlotinib,,,,0.04222416877746582,train,supervised_vae
+HuH-6 Clone 5,Erlotinib,,,,0.06650839745998383,train,supervised_vae
+GR-M,Erlotinib,,,,0.018292458727955818,train,supervised_vae
+KNS-81-FD,Erlotinib,,,0.006513525266200304,0.020740827545523643,train,supervised_vae
+KMS-11,Erlotinib,,,0.0,0.0002908145252149552,train,supervised_vae
+ZR-75-1,Erlotinib,,,0.11372878402471542,0.12442315369844437,train,supervised_vae
+LK-2,Erlotinib,,,,0.0757022425532341,train,supervised_vae
+Hep 3B2.1-7,Erlotinib,,,0.0,0.126669242978096,train,supervised_vae
+MDA-MB-468,Erlotinib,,,0.21849147975444794,0.11066998541355133,train,supervised_vae
+NCI-H2405,Erlotinib,,,,0.06556598842144012,train,supervised_vae
+HCC1395,Erlotinib,,,0.042956769466400146,0.05956929177045822,train,supervised_vae
+SK-MM-2,Erlotinib,,,0.17415617406368256,0.21531066298484802,train,supervised_vae
+HTK-,Erlotinib,,,,0.029305685311555862,train,supervised_vae
+SLR23,Erlotinib,,,,0.10349905490875244,train,supervised_vae
+GP2d,Erlotinib,,,,0.13205468654632568,train,supervised_vae
+MDA-MB-231,Erlotinib,,,,0.014868625439703465,train,supervised_vae
+SK-N-MC,Erlotinib,,,,0.0366215817630291,train,supervised_vae
+Panc 03.27,Erlotinib,,,0.06275393068790436,0.04991535469889641,train,supervised_vae
+CMK,Erlotinib,,,,0.07851292192935944,train,supervised_vae
+KNS-62,Erlotinib,,,0.0,0.018536094576120377,train,supervised_vae
+SCC-4,Erlotinib,,,,0.15204595029354095,train,supervised_vae
+HuCC-T1,Erlotinib,,,0.07585393637418747,0.0873144194483757,train,supervised_vae
+NCI-H1793,Erlotinib,,,0.14222055673599243,0.14444316923618317,train,supervised_vae
+EHEB,Erlotinib,,,,0.04326500743627548,train,supervised_vae
+CCF-STTG1,Erlotinib,,,,0.060230743139982224,train,supervised_vae
+U-178MG,Erlotinib,,,,0.03765919432044029,train,supervised_vae
+COLO 741,Erlotinib,,,0.1051330491900444,0.11679679155349731,train,supervised_vae
+PLC/PRF/5,Erlotinib,,,0.08866620808839798,0.0840773954987526,train,supervised_vae
+HuP-T4,Erlotinib,,,0.1675354391336441,0.044876448810100555,train,supervised_vae
+KMS-20,Erlotinib,,,,0.04153144732117653,train,supervised_vae
+DM-3,Erlotinib,,,,0.04818779602646828,train,supervised_vae
+NCI-H2141,Erlotinib,,,,0.0017399434000253677,train,supervised_vae
+OVCAR-8,Erlotinib,,,,0.050418730825185776,train,supervised_vae
+SNU-C1,Erlotinib,,,,0.08845426142215729,train,supervised_vae
+NCI-H510A,Erlotinib,,,,0.014312602579593658,train,supervised_vae
+UT-7,Erlotinib,,,,0.07669994235038757,train,supervised_vae
+NCI-H522,Erlotinib,,,0.040344320237636566,0.04796405881643295,train,supervised_vae
+KMS-21-BM,Erlotinib,,,,0.021524976938962936,train,supervised_vae
+EN,Erlotinib,,,0.00819708313792944,0.012767460197210312,train,supervised_vae
+CML-T1,Erlotinib,,,,0.06799662113189697,train,supervised_vae
+COR-L88,Erlotinib,,,,0.0008339211926795542,train,supervised_vae
+SNU-308,Erlotinib,,,,0.1567177176475525,train,supervised_vae
+SW1783,Erlotinib,,,,0.03547332063317299,train,supervised_vae
+MPP 89,Erlotinib,,,0.01904938742518425,0.030450494959950447,train,supervised_vae
+OS-RC-2,Erlotinib,,,,0.11983092129230499,train,supervised_vae
+ACC-MESO-1,Erlotinib,,,,0.042562782764434814,train,supervised_vae
+CH-157MN,Erlotinib,,,,0.03832821547985077,train,supervised_vae
+NCI-H1435,Erlotinib,,,,0.046472687274217606,train,supervised_vae
+SNU-840,Erlotinib,,,,0.12335850298404694,train,supervised_vae
+MOLM-13,Erlotinib,,,,0.08520537614822388,train,supervised_vae
+M059K,Erlotinib,,,,0.029925130307674408,train,supervised_vae
+SNU-119,Erlotinib,,,,0.17222483456134796,train,supervised_vae
+KYSE-520,Erlotinib,,,0.18550874292850494,0.17957395315170288,train,supervised_vae
+MFE-319,Erlotinib,,,0.2620878517627716,0.31450048089027405,train,supervised_vae
+NCI-H1975,Erlotinib,,,0.04640130698680878,0.05882035568356514,train,supervised_vae
+SNU-869,Erlotinib,,,,0.02695290744304657,train,supervised_vae
+DMS 273,Erlotinib,,,,0.011638190597295761,train,supervised_vae
+HCC1438,Erlotinib,,,,0.10050696134567261,train,supervised_vae
+HSC-2,Erlotinib,,,0.07182122021913528,0.10476711392402649,train,supervised_vae
+IA-LM,Erlotinib,,,0.028218360617756844,0.028484981507062912,train,supervised_vae
+Karpas-299,Erlotinib,,,0.026572350412607193,0.027969729155302048,train,supervised_vae
+KCL-22,Erlotinib,,,0.045496631413698196,0.08215145766735077,train,supervised_vae
+NCI-H1385,Erlotinib,,,,0.0029232653323560953,train,supervised_vae
+KG-1,Erlotinib,,,0.03685476630926132,0.06227533519268036,train,supervised_vae
+HEC-59,Erlotinib,,,0.02312557026743889,0.01725710928440094,train,supervised_vae
+SNU-16,Erlotinib,,,0.047067105770111084,0.05975873023271561,train,supervised_vae
+EC-GI-10,Erlotinib,,,,0.29797476530075073,train,supervised_vae
+JHH-4,Erlotinib,,,0.05468062683939934,0.05561428517103195,train,supervised_vae
+RS4;11,Erlotinib,,,,0.09476485103368759,train,supervised_vae
+NCI-H1930,Erlotinib,,,,0.014518653973937035,train,supervised_vae
+EPLC-272H,Erlotinib,,,,0.18620452284812927,train,supervised_vae
+MCF-7,Erlotinib,,,0.052088651806116104,0.07772862166166306,train,supervised_vae
+Hs 821.T,Erlotinib,,,,0.022723032161593437,train,supervised_vae
+SW480,Erlotinib,,,0.020401477813720703,0.021672500297427177,train,supervised_vae
+KMS-34,Erlotinib,,,0.006456402130424976,0.010718942619860172,train,supervised_vae
+WM793,Erlotinib,,,0.02805124968290329,0.055016785860061646,train,supervised_vae
+MDA-MB-361,Erlotinib,,,,0.07493756711483002,train,supervised_vae
+TE 441.T,Erlotinib,,,,0.08694340288639069,train,supervised_vae
+RERF-LC-KJ,Erlotinib,,,,0.22288301587104797,train,supervised_vae
+TE-8,Erlotinib,,,,0.11675795912742615,train,supervised_vae
+HARA [Human squamous cell lung carcinoma],Erlotinib,,,0.11393557488918304,0.10102248191833496,train,supervised_vae
+CAL-27,Erlotinib,,,0.33115506172180176,0.35603266954421997,train,supervised_vae
+LUDLU-1,Erlotinib,,,0.21479026973247528,0.22292383015155792,train,supervised_vae
+Mino,Erlotinib,,,0.12321418523788452,0.1476058065891266,train,supervised_vae
+MOLM-16,Erlotinib,,,,0.0766332596540451,train,supervised_vae
+YD-15,Erlotinib,,,,0.15449494123458862,train,supervised_vae
+EoL-1,Erlotinib,,,,0.07920291274785995,train,supervised_vae
+OCI-AML-3,Erlotinib,,,,0.06152983382344246,train,supervised_vae
+HT-1197,Erlotinib,,,0.05817360058426857,0.07301566749811172,train,supervised_vae
+HuH-28,Erlotinib,,,,0.022910425439476967,train,supervised_vae
+TE-15,Erlotinib,,,0.2378416657447815,0.23731869459152222,train,supervised_vae
+U-251MG,Erlotinib,,,,0.04655822739005089,train,supervised_vae
+HCC-56,Erlotinib,,,0.057098597288131714,0.02100495435297489,train,supervised_vae
+OCI-M1,Erlotinib,,,,0.07302942126989365,train,supervised_vae
+SW1116,Erlotinib,,,,0.0635857880115509,train,supervised_vae
+Fu97,Erlotinib,,,0.05444095656275749,0.08220548927783966,train,supervised_vae
+HCC1187,Erlotinib,,,0.046661943197250366,0.07666748017072678,train,supervised_vae
+Rh30,Erlotinib,,,0.007888833060860634,0.0043108114041388035,train,supervised_vae
+Hs 695T,Erlotinib,,,0.0027959689032286406,0.002703452482819557,train,supervised_vae
+MFE-280,Erlotinib,,,0.12208159267902374,0.15229664742946625,train,supervised_vae
+L-540,Erlotinib,,,,0.011767687276005745,train,supervised_vae
+NCI-H596,Erlotinib,,,,0.1510019302368164,train,supervised_vae
+OCI-AML-2,Erlotinib,,,0.02965749055147171,0.059769097715616226,train,supervised_vae
+TE-14,Erlotinib,,,,0.18456962704658508,train,supervised_vae
+SNU-899,Erlotinib,,,,0.1599661260843277,train,supervised_vae
+OVCAR-3,Erlotinib,,,0.1443013697862625,0.19663016498088837,train,supervised_vae
+SNU-C5,Erlotinib,,,,0.03579072654247284,train,supervised_vae
+JHOM-2B,Erlotinib,,,,0.08784832805395126,train,supervised_vae
+SU-DHL-1,Erlotinib,,,,0.02736532688140869,train,supervised_vae
+NCI-H1355,Erlotinib,,,0.170404314994812,0.164072185754776,train,supervised_vae
+PC-14,Erlotinib,,,0.5404548048973083,0.11393271386623383,train,supervised_vae
+Hs 618.T,Erlotinib,,,,0.042387545108795166,train,supervised_vae
+RT112/84,Erlotinib,,,,0.17790748178958893,train,supervised_vae
+Rh18,Erlotinib,,,,0.024630514904856682,train,supervised_vae
+RKO,Erlotinib,,,0.004631584510207176,0.006043014116585255,train,supervised_vae
+EFO-21,Erlotinib,,,0.04438505694270134,0.05497153848409653,train,supervised_vae
+DU4475,Erlotinib,,,,0.04056129977107048,train,supervised_vae
+KP-N-RT-BM-1,Erlotinib,,,,0.00636075297370553,train,supervised_vae
+NCI-H2196,Erlotinib,,,,0.009312376379966736,train,supervised_vae
+DMS 454,Erlotinib,,,,0.00807554367929697,train,supervised_vae
+SK-RC-31,Erlotinib,,,,0.04407362639904022,train,supervised_vae
+SNU-324,Erlotinib,,,,0.1241404116153717,train,supervised_vae
+NCI-H2110,Erlotinib,,,,0.26342299580574036,train,supervised_vae
+SW1088,Erlotinib,,,0.05018170550465584,0.05842561274766922,train,supervised_vae
+NCI-H146,Erlotinib,,,,0.0,train,supervised_vae
+RPMI-8226,Erlotinib,,,,0.022514071315526962,train,supervised_vae
+SW579,Erlotinib,,,0.01684611104428768,0.0269862562417984,train,supervised_vae
+MeWo,Erlotinib,,,0.0,0.055680204182863235,train,supervised_vae
+EFE-184,Erlotinib,,,0.10355244576931,0.10000409185886383,train,supervised_vae
+GDM-1,Erlotinib,,,,0.06034348905086517,train,supervised_vae
+HLE,Erlotinib,,,0.02747679315507412,0.018767062574625015,train,supervised_vae
+SW948,Erlotinib,,,,0.10783743858337402,train,supervised_vae
+KP-N-SI9s,Erlotinib,,,0.07291987538337708,0.0908585637807846,train,supervised_vae
+PaTu 8988t,Erlotinib,,,,0.05846395343542099,train,supervised_vae
+MKN74,Erlotinib,,,0.03447232395410538,0.022375240921974182,train,supervised_vae
+KP-N-YN,Erlotinib,,,,0.0023077023215591908,train,supervised_vae
+Panc 02.13,Erlotinib,,,,0.18606500327587128,train,supervised_vae
+HCC38,Erlotinib,,,,0.1275075376033783,train,supervised_vae
+LS1034,Erlotinib,,,,0.019252220168709755,train,supervised_vae
+SK-CO-1,Erlotinib,,,0.13508951663970947,0.11401831358671188,train,supervised_vae
+5637,Erlotinib,,,0.2021394670009613,0.20797115564346313,train,supervised_vae
+HEC-1-B,Erlotinib,,,0.06732435524463654,0.12042388319969177,train,supervised_vae
+CL-14,Erlotinib,,,,0.08154932409524918,train,supervised_vae
+EM-2,Erlotinib,,,0.06069961562752724,0.08797995746135712,train,supervised_vae
+GaMG,Erlotinib,,,0.03627780079841614,0.030338367447257042,train,supervised_vae
+HCC1428,Erlotinib,,,,0.06898436695337296,train,supervised_vae
+LAMA-84,Erlotinib,,,,0.0674431324005127,train,supervised_vae
+RERF-LC-Sq1,Erlotinib,,,,-0.0011166631011292338,train,supervised_vae
+COLO 677,Erlotinib,,,0.009470959194004536,0.01090171281248331,train,supervised_vae
+SNU-61,Erlotinib,,,,0.10535871982574463,train,supervised_vae
+COR-L105,Erlotinib,,,0.18441914021968842,0.1606636345386505,train,supervised_vae
+HT-1376,Erlotinib,,,0.1141933798789978,0.11774546653032303,train,supervised_vae
+LS180,Erlotinib,,,,0.1375013291835785,train,supervised_vae
+YH-13,Erlotinib,,,,0.04153706505894661,train,supervised_vae
+OV-90,Erlotinib,,,0.0,0.017820531502366066,train,supervised_vae
+NCI-H1876,Erlotinib,,,,0.006557389162480831,train,supervised_vae
+OC 314,Erlotinib,,,0.04141521826386452,0.04108593612909317,train,supervised_vae
+SUP-T1,Erlotinib,,,0.0,0.04385099560022354,train,supervised_vae
+QGP-1,Erlotinib,,,0.06047167629003525,0.022761469706892967,train,supervised_vae
+NCI-H1838,Erlotinib,,,,0.1603573113679886,train,supervised_vae
+SKM-1,Erlotinib,,,,0.047103457152843475,train,supervised_vae
+Hs 706.T,Erlotinib,,,,0.0053746881894767284,train,supervised_vae
+HCC33,Erlotinib,,,,6.968306843191385e-05,train,supervised_vae
+BICR 16,Erlotinib,,,,0.17648357152938843,train,supervised_vae
+COV318,Erlotinib,,,0.0,0.023955421522259712,train,supervised_vae
+EFO-27,Erlotinib,,,0.16153484582901,0.12624064087867737,train,supervised_vae
+TE-4,Erlotinib,,,,0.18749754130840302,train,supervised_vae
+A-204,Erlotinib,,,0.013244900852441788,0.0020443033427000046,train,supervised_vae
+C32 [Human melanoma],Erlotinib,,,0.03969797492027283,0.007241828367114067,train,supervised_vae
+LN-319,Erlotinib,,,,0.07909241318702698,train,supervised_vae
+HCC95,Erlotinib,,,,0.15175990760326385,train,supervised_vae
+TGBC11TKB,Erlotinib,,,,0.10068665444850922,train,supervised_vae
+CAL-29,Erlotinib,,,,0.15495643019676208,train,supervised_vae
+CW-2,Erlotinib,,,,0.12779799103736877,train,supervised_vae
+AM-38,Erlotinib,,,,0.010882552713155746,train,supervised_vae
+AN3-CA,Erlotinib,,,0.03363645449280739,0.02825774997472763,train,supervised_vae
+MDA-MB-435,Erlotinib,,,0.0032447248231619596,0.03139493241906166,train,supervised_vae
+NCI-H2170,Erlotinib,,,0.19809652864933014,0.2131197601556778,train,supervised_vae
+OVSAHO,Erlotinib,,,0.02859368361532688,0.09464723616838455,train,supervised_vae
+NCI-H1693,Erlotinib,,,0.19644658267498016,0.1592930555343628,train,supervised_vae
+NCI-H1299,Erlotinib,,,0.06268586218357086,0.06890887022018433,train,supervised_vae
+LC-1/sq-SF,Erlotinib,,,0.11546967923641205,0.14719891548156738,train,supervised_vae
+HCC1569,Erlotinib,,,0.006881309673190117,0.06168336421251297,train,supervised_vae
+MOLT-4,Erlotinib,,,,0.07199987769126892,train,supervised_vae
+CAL-54,Erlotinib,,,,0.25612181425094604,train,supervised_vae
+Caki-1,Erlotinib,,,,0.10791991651058197,train,supervised_vae
+KE-97,Erlotinib,,,0.0897432342171669,0.014728055335581303,train,supervised_vae
+PE/CA-PJ15,Erlotinib,,,,0.2327718436717987,train,supervised_vae
+SNU-626,Erlotinib,,,,0.022119754925370216,train,supervised_vae
+KYSE-270,Erlotinib,,,,0.20956425368785858,train,supervised_vae
+Raji,Erlotinib,,,0.0,0.009441308677196503,train,supervised_vae
+Hs 675.T,Erlotinib,,,,0.04437219724059105,train,supervised_vae
+NALM-6,Erlotinib,,,,0.0906287431716919,train,supervised_vae
+SW780,Erlotinib,,,0.12238645553588867,0.17744407057762146,train,supervised_vae
+MES-SA,Erlotinib,,,0.002105230698361993,0.00104010000359267,train,supervised_vae
+MHH-CALL-3,Erlotinib,,,,0.10571219772100449,train,supervised_vae
+COV434,Erlotinib,,,,0.06116718798875809,train,supervised_vae
+Daoy,Erlotinib,,,0.033018723130226135,0.05034474655985832,train,supervised_vae
+HT-144,Erlotinib,,,0.05721958726644516,0.015000039711594582,train,supervised_vae
+LCLC-103H,Erlotinib,,,0.018521644175052643,0.026309695094823837,train,supervised_vae
+SH-SY5Y,Erlotinib,,,,0.015278627164661884,train,supervised_vae
+Hs 683,Erlotinib,,,0.011889842338860035,0.027902934700250626,train,supervised_vae
+NCI-H1373,Erlotinib,,,0.04716647043824196,0.015430456958711147,train,supervised_vae
+TE-6,Erlotinib,,,,0.17116229236125946,train,supervised_vae
+SCaBER,Erlotinib,,,0.2585083246231079,0.2881934344768524,train,supervised_vae
+SNU-423,Erlotinib,,,0.03534448519349098,0.035584956407547,train,supervised_vae
+UM-UC-3,Erlotinib,,,0.0,0.007084589917212725,train,supervised_vae
+Malme-3M,Erlotinib,,,0.0325942300260067,0.01553366333246231,train,supervised_vae
+HPB-ALL,Erlotinib,,,,0.0884401723742485,train,supervised_vae
+Ku812,Erlotinib,,,0.03246072307229042,0.06204213947057724,train,supervised_vae
+RCM-1 [Human rectum adenocarcinoma],Erlotinib,,,,0.025746449828147888,train,supervised_vae
+DB,Erlotinib,,,,0.007380310446023941,train,supervised_vae
+SU.86.86,Erlotinib,,,0.05526959151029587,0.0722302794456482,train,supervised_vae
+T-47D,Erlotinib,,,0.06612788885831833,0.09073756635189056,train,supervised_vae
+SUP-B15,Erlotinib,,,,0.11681222915649414,train,supervised_vae
+TUHR4TKB,Erlotinib,,,,0.18025478720664978,train,supervised_vae
+SNU-685,Erlotinib,,,,0.10295918583869934,train,supervised_vae
+ECC10,Erlotinib,,,,0.0384669303894043,train,supervised_vae
+Hs 739.T,Erlotinib,,,0.0,0.017346253618597984,train,supervised_vae
+Peer,Erlotinib,,,,0.0683644562959671,train,supervised_vae
+HK-2 [Human kidney],Erlotinib,,,,0.12384535372257233,train,supervised_vae
+HCC1806,Erlotinib,,,0.20209404826164246,0.21974216401576996,train,supervised_vae
+LN-464,Erlotinib,,,,0.027642622590065002,train,supervised_vae
+NCI-H2081,Erlotinib,,,,0.006740600802004337,train,supervised_vae
+NUGC-3,Erlotinib,,,0.23616647720336914,0.10095968097448349,train,supervised_vae
+TO 175.T,Erlotinib,,,,0.03484395518898964,train,supervised_vae
+NCI-H69,Erlotinib,,,,0.0053052897565066814,train,supervised_vae
+VCaP,Erlotinib,,,,0.05988036096096039,train,supervised_vae
+Hs 822.T,Erlotinib,,,,0.02427673153579235,train,supervised_vae
+JMSU-1,Erlotinib,,,0.11092350631952286,0.14272183179855347,train,supervised_vae
+NCI-H929,Erlotinib,,,,0.02703310362994671,train,supervised_vae
+RERF-LC-Ad2,Erlotinib,,,,0.17126736044883728,train,supervised_vae
+JHUEM-1,Erlotinib,,,,0.13852359354496002,train,supervised_vae
+SK-ES-1,Erlotinib,,,0.06832186132669449,0.06613752245903015,train,supervised_vae
+HCC364,Erlotinib,,,,0.03473363071680069,train,supervised_vae
+JM-1,Erlotinib,,,0.036375001072883606,0.06104147434234619,train,supervised_vae
+HCC202,Erlotinib,,,,0.13277563452720642,train,supervised_vae
+SNU-8,Erlotinib,,,,0.10665100812911987,train,supervised_vae
+A-172,Erlotinib,,,0.020002657547593117,0.021536950021982193,train,supervised_vae
+HCC827,Erlotinib,,,0.5778692364692688,0.550167441368103,train,supervised_vae
+OVK18,Erlotinib,,,,0.07506951689720154,train,supervised_vae
+RERF-GC-1B,Erlotinib,,,0.08589732646942139,0.10647240281105042,train,supervised_vae
+HCC1359,Erlotinib,,,,0.016246868297457695,train,supervised_vae
+DAN-G,Erlotinib,,,,0.03567865118384361,train,supervised_vae
+SNU-1066,Erlotinib,,,,0.23865985870361328,train,supervised_vae
+Hs 870.T,Erlotinib,,,,0.026493236422538757,train,supervised_vae
+NCI-H82,Erlotinib,,,,0.00390662532299757,train,supervised_vae
+G-402,Erlotinib,,,0.003593845758587122,-0.0030215554870665073,train,supervised_vae
+FTC-133,Erlotinib,,,,0.09319375455379486,train,supervised_vae
+NCI-H2291,Erlotinib,,,,0.09025107324123383,train,supervised_vae
+NCI-H810,Erlotinib,,,0.0,0.0039840275421738625,train,supervised_vae
+BICR 22,Erlotinib,,,,0.27620962262153625,train,supervised_vae
+SK-MEL-5,Erlotinib,,,0.05582759901881218,0.09645572304725647,train,supervised_vae
+AML-193,Erlotinib,,,,0.06452298909425735,train,supervised_vae
+JURL-MK1,Erlotinib,,,,0.045561663806438446,train,supervised_vae
+YAPC,Erlotinib,,,,0.02138363942503929,train,supervised_vae
+Kasumi-6,Erlotinib,,,,0.10804624855518341,train,supervised_vae
+NCI-H747,Erlotinib,,,0.08544382452964783,0.07774173468351364,train,supervised_vae
+SW1573,Erlotinib,,,0.07071369141340256,0.08008956909179688,train,supervised_vae
+NCI-H2228,Erlotinib,,,0.11122030019760132,0.09607923030853271,train,supervised_vae
+NCI-H854,Erlotinib,,,,0.0031573146115988493,train,supervised_vae
+Hs 840.T,Erlotinib,,,0.01480245403945446,0.041767582297325134,train,supervised_vae
+KNS-42,Erlotinib,,,0.0,0.01121122669428587,train,supervised_vae
+RT-4,Erlotinib,,,0.16739684343338013,0.22756679356098175,train,supervised_vae
+PSN1,Erlotinib,,,0.035159897059202194,0.014668077230453491,train,supervised_vae
+A-549,Erlotinib,,,0.08121180534362793,0.0707997977733612,train,supervised_vae
+OV56,Erlotinib,,,,0.03166613727807999,train,supervised_vae
+SNU-201,Erlotinib,,,,0.040217939764261246,train,supervised_vae
+143B,Erlotinib,,,,0.056404128670692444,train,supervised_vae
+IGR-39,Erlotinib,,,0.007250509224832058,0.01836680993437767,train,supervised_vae
+TE-1,Erlotinib,,,0.0982104241847992,0.09296618402004242,train,supervised_vae
+WM1799,Erlotinib,,,0.04316750541329384,0.05406438559293747,train,supervised_vae
+Hep-G2,Erlotinib,,,0.02846195176243782,0.04621806740760803,train,supervised_vae
+MDA-MB-134-VI,Erlotinib,,,,0.0340338796377182,train,supervised_vae
+NCI-H650,Erlotinib,,,0.005011194851249456,0.004429907537996769,train,supervised_vae
+AsPC-1,Erlotinib,,,0.05606233328580856,0.05931171402335167,train,supervised_vae
+MDST8,Erlotinib,,,,0.04184778407216072,train,supervised_vae
+CFPAC-1,Erlotinib,,,,0.04910099878907204,train,supervised_vae
+YKG-1,Erlotinib,,,0.03782465681433678,0.04430769383907318,train,supervised_vae
+MOLM-6,Erlotinib,,,,0.08397236466407776,train,supervised_vae
+PL-21,Erlotinib,,,,0.06619635224342346,train,supervised_vae
+42-MG-BA,Erlotinib,,,0.09109991043806076,0.11820636689662933,train,supervised_vae
+Hs 616.T,Erlotinib,,,,0.03001079335808754,train,supervised_vae
+Loucy,Erlotinib,,,,0.07125446200370789,train,supervised_vae
+HT,Erlotinib,,,0.0,0.006658216007053852,train,supervised_vae
+PK-59,Erlotinib,,,0.03967913240194321,0.04055123031139374,train,supervised_vae
+SUP-T11,Erlotinib,,,,0.03681306540966034,train,supervised_vae
+MOLP-8,Erlotinib,,,0.008758941665291786,0.0064712949097156525,train,supervised_vae
+SLR24,Erlotinib,,,,0.15067970752716064,train,supervised_vae
+SNU-489,Erlotinib,,,,0.03034447319805622,train,supervised_vae
+253J,Erlotinib,,,,0.05825408920645714,train,supervised_vae
+A2058,Erlotinib,,,0.020316431298851967,0.04130064323544502,train,supervised_vae
+Ci-1,Erlotinib,,,0.0,0.015182288363575935,train,supervised_vae
+ES-2,Erlotinib,,,0.02078234776854515,0.02383994311094284,train,supervised_vae
+NCI-H1703,Erlotinib,,,0.056992560625076294,0.05874263495206833,train,supervised_vae
+CCK-81,Erlotinib,,,0.20738886296749115,0.23072990775108337,train,supervised_vae
+OC 315,Erlotinib,,,0.05231531709432602,0.04040466248989105,train,supervised_vae
+BV-173,Erlotinib,,,,0.1021132543683052,train,supervised_vae
+NCI-H1648,Erlotinib,,,0.0904114693403244,0.09786531329154968,train,supervised_vae
+T3M-4,Erlotinib,,,,0.1019669696688652,train,supervised_vae
+K029AX,Erlotinib,,,0.0,0.011315896175801754,train,supervised_vae
+RPMI-7951,Erlotinib,,,0.010962510481476784,0.01428491622209549,train,supervised_vae
+NCI-H1755,Erlotinib,,,,0.03636200726032257,train,supervised_vae
+OVMANA,Erlotinib,,,0.022195594385266304,0.12731385231018066,train,supervised_vae
+SU-DHL-10,Erlotinib,,,0.0,0.031240440905094147,train,supervised_vae
+CAL-148,Erlotinib,,,,0.07556802034378052,train,supervised_vae
+CPC-N,Erlotinib,,,,0.0007468589465133846,train,supervised_vae
+HDQ-P1,Erlotinib,,,0.20471830666065216,0.2497529536485672,train,supervised_vae
+KMS-12-BM,Erlotinib,,,0.0,0.015582621097564697,train,supervised_vae
+NCI-H2085,Erlotinib,,,0.05294705927371979,0.04249141737818718,train,supervised_vae
+SNU-1197,Erlotinib,,,,0.04690995812416077,train,supervised_vae
+PC-3,Erlotinib,,,0.05190436169505119,0.05410708114504814,train,supervised_vae
+KYSE-150,Erlotinib,,,0.08199793100357056,0.07550756633281708,train,supervised_vae
+MOTN-1,Erlotinib,,,,0.035056330263614655,train,supervised_vae
+NCI-H226,Erlotinib,,,0.0059545026160776615,0.008598468266427517,train,supervised_vae
+A-673,Erlotinib,,,0.013293544761836529,0.05233865976333618,train,supervised_vae
+NCI-H1836,Erlotinib,,,,0.0036391147878021,train,supervised_vae
+HMCB,Erlotinib,,,0.11731451749801636,0.1443326771259308,train,supervised_vae
+HuTu 80,Erlotinib,,,,0.14053896069526672,train,supervised_vae
+PrEC LH,Erlotinib,,,,0.09319285303354263,train,supervised_vae
+SNU-601,Erlotinib,,,,0.03401026874780655,train,supervised_vae
+D341 Med,Erlotinib,,,,-0.004850884433835745,train,supervised_vae
+T.T,Erlotinib,,,,0.18447080254554749,train,supervised_vae
+SHP-77,Erlotinib,,,0.0,0.0038519662339240313,train,supervised_vae
+BDCM,Erlotinib,,,0.013226781040430069,0.01486440934240818,train,supervised_vae
+HEC-265,Erlotinib,,,0.0,0.059220653027296066,train,supervised_vae
+VM-CUB-1,Erlotinib,,,,0.14185665547847748,train,supervised_vae
+WSU-DLCL2,Erlotinib,,,,0.01642102375626564,train,supervised_vae
+UACC-62,Erlotinib,,,0.10531966388225555,0.1586216688156128,train,supervised_vae
+PaTu 8902,Erlotinib,,,0.014206549152731895,0.025582678616046906,train,supervised_vae
+HEK TE,Erlotinib,,,,0.10073482990264893,train,supervised_vae
+RPMI-8402,Erlotinib,,,0.018608050420880318,0.06882059574127197,train,supervised_vae
+SK-MEL-24,Erlotinib,,,0.017442068085074425,0.014527931809425354,train,supervised_vae
+YD-10B,Erlotinib,,,,0.2064957320690155,train,supervised_vae
+SaOS-2,Erlotinib,,,0.005337087903171778,0.004215827211737633,train,supervised_vae
+DMS 153,Erlotinib,,,,0.0022741612046957016,train,supervised_vae
+GI-1,Erlotinib,,,0.021889647468924522,0.026057008653879166,train,supervised_vae
+HCC366,Erlotinib,,,,0.2605181932449341,train,supervised_vae
+NCI-H2126,Erlotinib,,,,0.2694653272628784,train,supervised_vae
+SNU-1214,Erlotinib,,,,0.2096395343542099,train,supervised_vae
+NCI-H1792,Erlotinib,,,0.03543425351381302,0.02468433976173401,train,supervised_vae
+OV7,Erlotinib,,,,0.02426719106733799,train,supervised_vae
+TF-1,Erlotinib,,,,0.05588461458683014,train,supervised_vae
+UM-RC-2,Erlotinib,,,,0.1262792944908142,train,supervised_vae
+PL45,Erlotinib,,,0.06297192722558975,0.035527683794498444,train,supervised_vae
+SNU-5,Erlotinib,,,,0.007161184214055538,train,supervised_vae
+NCI-H1944,Erlotinib,,,0.10510390996932983,0.09432702511548996,train,supervised_vae
+Reh,Erlotinib,,,0.007274820003658533,0.04000132530927658,train,supervised_vae
+SK-MES-1,Erlotinib,,,0.27235737442970276,0.26165032386779785,train,supervised_vae
+Hs 839.T,Erlotinib,,,,0.03248325362801552,train,supervised_vae
+WM115,Erlotinib,,,0.009304008446633816,0.01799423061311245,train,supervised_vae
+P3HR-1,Erlotinib,,,0.0,0.02447642758488655,train,supervised_vae
+KMRC-2,Erlotinib,,,0.0557129792869091,0.056002177298069,train,supervised_vae
+A-253,Erlotinib,,,0.11193941533565521,0.21662399172782898,train,supervised_vae
+BJ1-hTERT,Erlotinib,,,,0.06279156357049942,train,supervised_vae
+Hs 852.T,Erlotinib,,,0.06064947322010994,0.03318028897047043,train,supervised_vae
+Ri-1,Erlotinib,,,,0.0729718804359436,train,supervised_vae
+SLR26,Erlotinib,,,,0.12243232131004333,train,supervised_vae
+SW1353,Erlotinib,,,0.004265821073204279,0.015298720449209213,train,supervised_vae
+LN-215,Erlotinib,,,,0.1063086986541748,train,supervised_vae
+NALM-1,Erlotinib,,,,0.10056261718273163,train,supervised_vae
+COLO 818,Erlotinib,,,,0.024850521236658096,train,supervised_vae
+NCI-H716,Erlotinib,,,,0.003033142536878586,train,supervised_vae
+KM12,Erlotinib,,,,0.05460637807846069,train,supervised_vae
+MDA-MB-415,Erlotinib,,,0.01592852920293808,0.05105413869023323,train,supervised_vae
+OCI-Ly19,Erlotinib,,,,0.08035938441753387,train,supervised_vae
+TALL-1 [Human adult T-ALL],Erlotinib,,,,0.06767602264881134,train,supervised_vae
+JIMT-1,Erlotinib,,,,0.06809838861227036,train,supervised_vae
+TE-10,Erlotinib,,,,0.152327299118042,train,supervised_vae
+NCI-H1915,Erlotinib,,,0.04668029397726059,0.03518678992986679,train,supervised_vae
+UACC-257,Erlotinib,,,0.004973747301846743,0.014013159088790417,train,supervised_vae
+HCC1599,Erlotinib,,,,0.12715521454811096,train,supervised_vae
+NMC-G1,Erlotinib,,,,0.04373762756586075,train,supervised_vae
+SLR21,Erlotinib,,,,0.13711348176002502,train,supervised_vae
+CA46,Erlotinib,,,,0.02945038303732872,train,supervised_vae
+Hs 600.T,Erlotinib,,,,0.037852637469768524,train,supervised_vae
+REC-1,Erlotinib,,,,0.07170073688030243,train,supervised_vae
+T84,Erlotinib,,,0.06376633793115616,0.03318452462553978,train,supervised_vae
+SNU-1077,Erlotinib,,,,0.1655948907136917,train,supervised_vae
+Ishikawa (Heraklio) 02 ER-,Erlotinib,,,0.218491330742836,0.24848146736621857,train,supervised_vae
+8505C,Erlotinib,,,0.030876273289322853,0.03194126859307289,train,supervised_vae
+NCI-H446,Erlotinib,,,,-0.00039567193016409874,train,supervised_vae
+SNU-668,Erlotinib,,,,0.06131884455680847,train,supervised_vae
+NCI-H1563,Erlotinib,,,0.02166382037103176,0.03384513035416603,train,supervised_vae
+Capan-1,Erlotinib,,,,0.03819797933101654,train,supervised_vae
+PE/CA-PJ49,Erlotinib,,,,0.2539944052696228,train,supervised_vae
+SK-LU-1,Erlotinib,,,0.04014251381158829,0.026482416316866875,train,supervised_vae
+LS411N,Erlotinib,,,0.011920134536921978,0.10047276318073273,train,supervised_vae
+SF767,Erlotinib,,,,0.18625840544700623,train,supervised_vae
+Karpas-620,Erlotinib,,,0.021312205120921135,0.03277735784649849,train,supervised_vae
+GMS-10,Erlotinib,,,0.019054094329476357,0.03891357034444809,train,supervised_vae
+HEC-251,Erlotinib,,,0.06929846853017807,0.0740906298160553,train,supervised_vae
+SNU-C2A,Erlotinib,,,0.09475236386060715,0.07719099521636963,train,supervised_vae
+HPAC,Erlotinib,,,0.06448940932750702,0.1871136724948883,train,supervised_vae
+DMS 114,Erlotinib,,,0.0,0.0007151644676923752,train,supervised_vae
+LN-18,Erlotinib,,,0.06571833789348602,0.07841664552688599,train,supervised_vae
+SNU-283,Erlotinib,,,,0.1330101191997528,train,supervised_vae
+SNU-475,Erlotinib,,,0.06119292601943016,0.018966877833008766,train,supervised_vae
+IST-Mes1,Erlotinib,,,0.030112499371170998,0.02847650647163391,train,supervised_vae
+253J-BV,Erlotinib,,,,0.02482333779335022,train,supervised_vae
+MEG-01,Erlotinib,,,0.011870242655277252,0.028959356248378754,train,supervised_vae
+OCUM-1,Erlotinib,,,0.0,0.009309369139373302,train,supervised_vae
+OE19,Erlotinib,,,,0.08721278607845306,train,supervised_vae
+CAMA-1,Erlotinib,,,0.01575651951134205,0.024314336478710175,train,supervised_vae
+MOG-G-CCM,Erlotinib,,,0.0,0.013250292278826237,train,supervised_vae
+TE 617.T,Erlotinib,,,0.19763614237308502,0.24546408653259277,train,supervised_vae
+UM-UC-1,Erlotinib,,,,0.22528818249702454,train,supervised_vae
+JHUEM-3,Erlotinib,,,,0.13085871934890747,train,supervised_vae
+HuNS1,Erlotinib,,,,0.010843347758054733,train,supervised_vae
+NCI-H1651,Erlotinib,,,0.04277709126472473,0.05495559424161911,train,supervised_vae
+NCI-H1963,Erlotinib,,,,0.0,train,supervised_vae
+SU-DHL-4,Erlotinib,,,0.05815713480114937,0.02557448297739029,train,supervised_vae
+HCC1937,Erlotinib,,,,0.13856622576713562,train,supervised_vae
+NCI-H1048,Erlotinib,,,0.03162302449345589,0.04529272019863129,train,supervised_vae
+KO52,Erlotinib,,,0.06541673094034195,0.09941556304693222,train,supervised_vae
+G-401,Erlotinib,,,0.023841170594096184,0.005380437709391117,train,supervised_vae
+KMM-1,Erlotinib,,,0.00687357597053051,0.003805360058322549,train,supervised_vae
+U2OS,Erlotinib,,,0.04493655636906624,0.0593307688832283,train,supervised_vae
+SNU-175,Erlotinib,,,,0.13804474472999573,train,supervised_vae
+SNU-761,Erlotinib,,,,0.1581164300441742,train,supervised_vae
+RMG-I,Erlotinib,,,,0.2617207169532776,train,supervised_vae
+LS513,Erlotinib,,,,0.07061123847961426,train,supervised_vae
+MOG-G-UVW,Erlotinib,,,,0.04349649325013161,train,supervised_vae
+MC116,Erlotinib,,,0.0,0.02308129332959652,train,supervised_vae
+SW1463,Erlotinib,,,,0.09574857354164124,train,supervised_vae
+KM-H2,Erlotinib,,,,0.0026734955608844757,train,supervised_vae
+SNU-1,Erlotinib,,,0.08571857213973999,0.08473432064056396,train,supervised_vae
+Daudi,Erlotinib,,,,0.010950400494039059,train,supervised_vae
+Sq-1,Erlotinib,,,0.06801863759756088,0.05341584235429764,train,supervised_vae
+SCC-9,Erlotinib,,,0.2093525528907776,0.21906167268753052,train,supervised_vae
+NCI-H2342,Erlotinib,,,,0.2163732945919037,train,supervised_vae
+MJ,Erlotinib,,,0.0,0.0002513844519853592,train,supervised_vae
+Ki-JK,Erlotinib,,,,0.016356201842427254,train,supervised_vae
+Panc 08.13,Erlotinib,,,,0.046445902436971664,train,supervised_vae
+SBC-5,Erlotinib,,,0.003955003339797258,0.01931985467672348,train,supervised_vae
+NCI-H1395,Erlotinib,,,,0.18146707117557526,train,supervised_vae
+TYK-nu,Erlotinib,,,7.59855299883351e-15,0.0038855839520692825,train,supervised_vae
+OVISE,Erlotinib,,,,0.16989478468894958,train,supervised_vae
+ONS-76,Erlotinib,,,0.02147161215543747,0.04093135893344879,train,supervised_vae
+HCC827 GR5,Erlotinib,,,,0.2532652020454407,train,supervised_vae
+SNU-349,Erlotinib,,,,0.06116945296525955,train,supervised_vae
+TM-31,Erlotinib,,,,0.041036736220121384,train,supervised_vae
+JHOC-5,Erlotinib,,,,0.16033464670181274,train,supervised_vae
+KOPN-8,Erlotinib,,,,0.10324150323867798,train,supervised_vae
+786-O,Erlotinib,,,0.017399881035089493,0.1316337138414383,train,supervised_vae
+A2780,Erlotinib,,,0.01826312765479088,0.018225861713290215,train,supervised_vae
+BL-41,Erlotinib,,,0.009598737582564354,0.026112666353583336,train,supervised_vae
+CAS-1,Erlotinib,,,0.00462641566991806,0.02845202013850212,train,supervised_vae
+COLO 849,Erlotinib,,,,0.106801837682724,train,supervised_vae
+HCC1897,Erlotinib,,,,0.1291632056236267,train,supervised_vae
+SK-MEL-2,Erlotinib,,,0.0,0.01106137502938509,train,supervised_vae
+HT-55,Erlotinib,,,,0.08404935151338577,train,supervised_vae
+LCLC-97TM1,Erlotinib,,,,0.11764643341302872,train,supervised_vae
+NCI-H196,Erlotinib,,,,0.02535236068069935,train,supervised_vae
+SK-N-FI,Erlotinib,,,0.0,0.006451822351664305,train,supervised_vae
+SUP-M2,Erlotinib,,,0.0,0.01153886504471302,train,supervised_vae
+U-87MG ATCC,Erlotinib,,,0.0,0.005888739600777626,train,supervised_vae
+COLO 320,Erlotinib,,,0.06566300988197327,0.06514254957437515,train,supervised_vae
+NCI-H2444,Erlotinib,,,0.05686502158641815,0.056766197085380554,train,supervised_vae
+AZ-521,Erlotinib,,,0.14559698104858398,0.1558137685060501,train,supervised_vae
+SF172,Erlotinib,,,,0.0912710577249527,train,supervised_vae
+LoVo,Erlotinib,,,,0.08276607096195221,train,supervised_vae
+M-07e,Erlotinib,,,,0.08759443461894989,train,supervised_vae
+SW1710,Erlotinib,,,,0.16624078154563904,train,supervised_vae
+L-363,Erlotinib,,,0.030041877180337906,0.01128724217414856,train,supervised_vae
+NALM-19,Erlotinib,,,,0.10255997627973557,train,supervised_vae
+NCI-H2347,Erlotinib,,,,0.03920528292655945,train,supervised_vae
+CL-11,Erlotinib,,,,0.03688366711139679,train,supervised_vae
+NCI-H292,Erlotinib,,,,0.2562442123889923,train,supervised_vae
+MG-63,Erlotinib,,,0.006114600691944361,0.0022590397857129574,train,supervised_vae
+HLC-1,Erlotinib,,,,0.08849139511585236,train,supervised_vae
+KMRC-3,Erlotinib,,,,0.11079177260398865,train,supervised_vae
+NCI-H2052,Erlotinib,,,0.08320655673742294,0.022505324333906174,train,supervised_vae
+IGROV-1,Erlotinib,,,0.1451892852783203,0.16471004486083984,train,supervised_vae
+NUGC-2,Erlotinib,,,,0.17549225687980652,train,supervised_vae
+Hs 746.T,Erlotinib,,,0.028298527002334595,0.017976779490709305,train,supervised_vae
+OCI-Ly10,Erlotinib,,,0.07214845716953278,-0.0002722961362451315,train,supervised_vae
+NCI-H2066,Erlotinib,,,,0.021083734929561615,train,supervised_vae
+Hs 742.T,Erlotinib,,,,0.017583608627319336,train,supervised_vae
+AGS,Erlotinib,,,,0.04298756644129753,train,supervised_vae
+NCI-H1781,Erlotinib,,,,0.13281555473804474,train,supervised_vae
+COR-L51,Erlotinib,,,,0.0,train,supervised_vae
+NCI-H841,Erlotinib,,,,0.07479135692119598,train,supervised_vae
+Kuramochi,Erlotinib,,,0.09344540536403656,0.18350288271903992,train,supervised_vae
+SCC-15,Erlotinib,,,,0.258053183555603,train,supervised_vae
+T1-73,Erlotinib,,,,0.0325683169066906,train,supervised_vae
+Mel JuSo,Erlotinib,,,,0.02184608019888401,train,supervised_vae
+SNU-738,Erlotinib,,,,0.04524291306734085,train,supervised_vae
+SJSA-1,Erlotinib,,,0.0369315966963768,0.056912802159786224,train,supervised_vae
+DLD-1,Erlotinib,,,,0.04330594837665558,train,supervised_vae
+KP-3,Erlotinib,,,0.035343848168849945,0.015583010390400887,train,supervised_vae
+COR-L95,Erlotinib,,,,0.01805935986340046,train,supervised_vae
+HEL,Erlotinib,,,,0.05863017588853836,train,supervised_vae
+Hs 729.T,Erlotinib,,,0.012469694949686527,0.03482862189412117,train,supervised_vae
+JK-1,Erlotinib,,,,0.057482343167066574,train,supervised_vae
+MDA-MB-175-VII,Erlotinib,,,0.15721262991428375,0.17559413611888885,train,supervised_vae
+NCI-H647,Erlotinib,,,0.006460372358560562,0.06500741094350815,train,supervised_vae
+NCI-H1105,Erlotinib,,,,-0.00052775809308514,train,supervised_vae
+TC-71,Erlotinib,,,0.0,0.00572919612750411,train,supervised_vae
+KYSE-180,Erlotinib,,,0.20234858989715576,0.19066864252090454,train,supervised_vae
+SNU-1079,Erlotinib,,,,0.165465846657753,train,supervised_vae
+Caov-3,Erlotinib,,,,0.06511913985013962,train,supervised_vae
+SNU-520,Erlotinib,,,,0.07675504684448242,train,supervised_vae
+HCC15,Erlotinib,,,0.02772621624171734,0.0234773401170969,train,supervised_vae
+NCI-H209,Erlotinib,,,,-0.001184304361231625,train,supervised_vae
+HT-29,Erlotinib,,,0.0008752056746743619,0.0014009397709742188,train,supervised_vae
+OE33,Erlotinib,,,0.09942173957824707,0.059861086308956146,train,supervised_vae
+SLR25,Erlotinib,,,,0.050055377185344696,train,supervised_vae
+EBC-1,Erlotinib,,,0.04547259956598282,0.030585477128624916,train,supervised_vae
+COR-L47,Erlotinib,,,,0.0,train,supervised_vae
+LS123,Erlotinib,,,0.06874532997608185,0.04504304751753807,train,supervised_vae
+RL95-2,Erlotinib,,,0.21716706454753876,0.22172163426876068,train,supervised_vae
+YD-38,Erlotinib,,,,0.18283188343048096,train,supervised_vae
+NCI-H211,Erlotinib,,,0.0,0.005512240342795849,train,supervised_vae
+MHH-CALL-4,Erlotinib,,,,0.09777422994375229,train,supervised_vae
+NCI-H23,Erlotinib,,,0.012236746959388256,0.07643671333789825,train,supervised_vae
+SIG-M5,Erlotinib,,,0.12618041038513184,0.07726430892944336,train,supervised_vae
+8305C,Erlotinib,,,0.029852136969566345,0.04137888550758362,train,supervised_vae
+ZR-75-30,Erlotinib,,,0.0,0.04009402170777321,train,supervised_vae
+HuP-T3,Erlotinib,,,0.044885557144880295,0.029595719650387764,train,supervised_vae
+KLE,Erlotinib,,,0.08713329583406448,0.0993078276515007,train,supervised_vae
+NCI-H1581,Erlotinib,,,0.0,0.007963352836668491,train,supervised_vae
+NCI-H2452,Erlotinib,,,0.07825463265180588,0.07588357478380203,train,supervised_vae
+RCC4,Erlotinib,,,,0.15992234647274017,train,supervised_vae
+Kelly,Erlotinib,,,0.0,0.00393837783485651,train,supervised_vae
+NCI-H684,Erlotinib,,,,0.05270533263683319,train,supervised_vae
+VMRC-RCZ,Erlotinib,,,0.038071174174547195,0.053128182888031006,train,supervised_vae
+Caki-2,Erlotinib,,,0.12503495812416077,0.11102285981178284,train,supervised_vae
+MDA-MB-157,Erlotinib,,,0.06068647652864456,0.09671809524297714,train,supervised_vae
+NCI-H1568,Erlotinib,,,0.19252437353134155,0.23321737349033356,train,supervised_vae
+HCC1419,Erlotinib,,,,0.1513626128435135,train,supervised_vae
+Hs 604.T,Erlotinib,,,,0.02404528297483921,train,supervised_vae
+NCI-H1437,Erlotinib,,,,0.11506915837526321,train,supervised_vae
+KU-19-19,Erlotinib,,,,0.152145117521286,train,supervised_vae
+COV644,Erlotinib,,,,0.07003286480903625,train,supervised_vae
+Jurkat E6.1,Erlotinib,,,0.08020259439945221,0.09482279419898987,train,supervised_vae
+KP-4,Erlotinib,,,0.02275892160832882,0.003447789466008544,train,supervised_vae
+SNU-1076,Erlotinib,,,,0.16308949887752533,train,supervised_vae
+Hs 343.T,Erlotinib,,,,0.04281652346253395,train,supervised_vae
+RCH-ACV,Erlotinib,,,,0.10942573845386505,train,supervised_vae
+COR-L311,Erlotinib,,,,0.01082024909555912,train,supervised_vae
+UACC-812,Erlotinib,,,0.05086470767855644,0.06184179335832596,train,supervised_vae
+JHH-6,Erlotinib,,,0.013065235689282417,0.03875970095396042,train,supervised_vae
+SCC-25,Erlotinib,,,,0.1604653298854828,train,supervised_vae
+SNU-398,Erlotinib,,,0.0,0.058302510529756546,train,supervised_vae
+A-1207,Erlotinib,,,,0.04226762801408768,train,supervised_vae
+GCIY,Erlotinib,,,0.16549909114837646,0.1803000271320343,train,supervised_vae
+H4,Erlotinib,,,0.030391791835427284,0.03697048872709274,train,supervised_vae
+OVKATE,Erlotinib,,,,0.14227716624736786,train,supervised_vae
+MDA-PCa-2b,Erlotinib,,,,0.1603885293006897,train,supervised_vae
+SNU-620,Erlotinib,,,,0.06018710136413574,train,supervised_vae
+BT-474,Erlotinib,,,0.05379260703921318,0.07946395874023438,train,supervised_vae
+SNU-46,Erlotinib,,,,0.09135314077138901,train,supervised_vae
+SK-LMS-1,Erlotinib,,,0.09860297292470932,0.11683196574449539,train,supervised_vae
+NCI-H1339,Erlotinib,,,0.0038380459882318974,0.012689689174294472,train,supervised_vae
+HGC-27,Erlotinib,,,0.019985539838671684,0.0038392790593206882,train,supervised_vae
+CHP-212,Erlotinib,,,0.016802458092570305,0.013613555580377579,train,supervised_vae
+TEN,Erlotinib,,,0.0,0.009565804153680801,train,supervised_vae
+EFM-192A,Erlotinib,,,,0.08431711047887802,train,supervised_vae
+KHM-1B,Erlotinib,,,0.04921862483024597,0.037048570811748505,train,supervised_vae
+RMUG-S,Erlotinib,,,,0.1670587658882141,train,supervised_vae
+SK-N-DZ,Erlotinib,,,0.0023759305477142334,0.0019811103120446205,train,supervised_vae
+TE-9,Erlotinib,,,0.08090578019618988,0.12688082456588745,train,supervised_vae
+GOS-3,Erlotinib,,,,0.02610420621931553,train,supervised_vae
+A-375,Erlotinib,,,0.034597910940647125,0.0388779416680336,train,supervised_vae
+NCI-H2106,Erlotinib,,,,0.00594882620498538,train,supervised_vae
+JHOS-2,Erlotinib,,,0.009666142985224724,0.024046437814831734,train,supervised_vae
+NCI-H1092,Erlotinib,,,0.0,-0.005237402394413948,train,supervised_vae
+NU-DHL-1,Erlotinib,,,,0.05827084183692932,train,supervised_vae
+ABC-1,Erlotinib,,,,0.151361346244812,train,supervised_vae
+GA-10,Erlotinib,,,,0.023457959294319153,train,supervised_vae
+SH-10-TC,Erlotinib,,,0.030011549592018127,0.018054930493235588,train,supervised_vae
+TC-32,Erlotinib,,,,0.03446952626109123,train,supervised_vae
+COR-L23,Erlotinib,,,0.00965084321796894,0.0036868448369205,train,supervised_vae
+HL-60,Erlotinib,,,,0.08159233629703522,train,supervised_vae
+SK-N-SH,Erlotinib,,,0.033035822212696075,0.02688840962946415,train,supervised_vae
+T98G,Erlotinib,,,0.023452864959836006,0.0407378226518631,train,supervised_vae
+SW1417,Erlotinib,,,0.011907773092389107,0.008307462558150291,train,supervised_vae
+BHT-101,Erlotinib,,,,0.032178401947021484,train,supervised_vae
+HCC78,Erlotinib,,,0.007752100471407175,0.0045744068920612335,train,supervised_vae
+HuG1-N,Erlotinib,,,,0.042515162378549576,train,supervised_vae
+647V,Erlotinib,,,,0.13540256023406982,train,supervised_vae
+Hs 940.T,Erlotinib,,,,0.027228454127907753,train,supervised_vae
+MSTO-211H,Erlotinib,,,0.04682326689362526,0.04945763945579529,train,supervised_vae
+SF126,Erlotinib,,,0.0028855474665760994,0.01750747300684452,train,supervised_vae
+Evsa-T,Erlotinib,,,,0.07206098735332489,train,supervised_vae
+U-937,Erlotinib,,,0.051928505301475525,0.06914330273866653,train,supervised_vae
+SNU-719,Erlotinib,,,,0.08120813965797424,train,supervised_vae
+CAL-12T,Erlotinib,,,0.2825886905193329,0.2674950361251831,train,supervised_vae
+Lu-99A,Erlotinib,,,0.09351128339767456,0.10200759768486023,train,supervised_vae
+SK-BR-3,Erlotinib,,,0.05985407158732414,0.05511604994535446,train,supervised_vae
+KCI-MOH1,Erlotinib,,,0.16372962296009064,0.16370491683483124,train,supervised_vae
+HEC-108,Erlotinib,,,,0.11556099355220795,train,supervised_vae
+ChaGo-K-1,Erlotinib,,,,0.10545092076063156,train,supervised_vae
+MOLT-16,Erlotinib,,,0.04553644731640816,0.06572567671537399,train,supervised_vae
+PANC-1,Erlotinib,,,,0.012569932267069817,train,supervised_vae
+PaTu 8988s,Erlotinib,,,,0.06375715136528015,train,supervised_vae
+NCI-H2029,Erlotinib,,,,0.018746044486761093,train,supervised_vae
+TUHR14TKB,Erlotinib,,,,0.1495930254459381,train,supervised_vae
+NCI-H889,Erlotinib,,,,0.0012066946364939213,train,supervised_vae
+NOMO-1,Erlotinib,,,,0.06901676952838898,train,supervised_vae
+COR-L24,Erlotinib,,,,0.00038140773540362716,train,supervised_vae
+HMC-1-8,Erlotinib,,,0.01942284032702446,0.009613036178052425,train,supervised_vae
+SK-HEP-1,Erlotinib,,,0.022565459832549095,0.04198692739009857,train,supervised_vae
+Hs 888.T,Erlotinib,,,,0.05844917148351669,train,supervised_vae
+DMS 53,Erlotinib,,,,0.008668292313814163,train,supervised_vae
+HuT 78,Erlotinib,,,0.0,0.027830440551042557,train,supervised_vae
+NCI-H2009,Erlotinib,,,0.08123744279146194,0.19471795856952667,train,supervised_vae
+SNU-878,Erlotinib,,,,0.022354774177074432,train,supervised_vae
+COLO 678,Erlotinib,,,0.15705744922161102,0.09113231301307678,train,supervised_vae
+HLF-a,Erlotinib,,,,0.04545523226261139,train,supervised_vae
+Panc 04.03,Erlotinib,,,0.11146882176399231,0.03636603802442551,train,supervised_vae
+TCC-PAN2,Erlotinib,,,,0.026665929704904556,train,supervised_vae
+JHH-1,Erlotinib,,,,0.2318989485502243,train,supervised_vae
+SiMa,Erlotinib,,,0.0,0.0056753880344331264,train,supervised_vae
+IOMM-Lee,Erlotinib,,,,0.028265127912163734,train,supervised_vae
+NCI-H2030,Erlotinib,,,0.15355055034160614,0.15065638720989227,train,supervised_vae
+FTC-238,Erlotinib,,,,0.07851700484752655,train,supervised_vae
+HT115,Erlotinib,,,,0.04733240231871605,train,supervised_vae
+SK-N-AS,Erlotinib,,,0.01277044229209423,0.006366501562297344,train,supervised_vae
+Hs 606.T,Erlotinib,,,,0.04163966327905655,train,supervised_vae
+KYO-1,Erlotinib,,,,0.06611085683107376,train,supervised_vae
+SU-DHL-8,Erlotinib,,,0.006080465391278267,0.02963869646191597,train,supervised_vae
+BxPC-3,Erlotinib,,,0.11221767216920853,0.0928439199924469,train,supervised_vae
+HCT 15,Erlotinib,,,0.051358070224523544,0.09135477989912033,train,supervised_vae
+DU145,Erlotinib,,,0.13559819757938385,0.07820737361907959,train,supervised_vae
+Lu-65,Erlotinib,,,,0.011858053505420685,train,supervised_vae
+SK-MEL-31,Erlotinib,,,0.022938359528779984,0.0055991970002651215,train,supervised_vae
+HEY A8,Erlotinib,,,0.015455840155482292,0.053962066769599915,train,supervised_vae
+HCT 8,Erlotinib,,,,0.05034835264086723,train,supervised_vae
+NCI-H1573,Erlotinib,,,0.15496483445167542,0.15485581755638123,train,supervised_vae
+DFCI024,Erlotinib,,,,0.11944162845611572,train,supervised_vae
+JVM-3,Erlotinib,,,0.11290206015110016,0.15588176250457764,train,supervised_vae
+KYSE-140,Erlotinib,,,0.2900695502758026,0.3014478087425232,train,supervised_vae
+MOLT-13,Erlotinib,,,,0.09184246510267258,train,supervised_vae
+TE 159.T,Erlotinib,,,,0.02008671872317791,train,supervised_vae
+NCI-H508,Erlotinib,,,,0.10943183302879333,train,supervised_vae
+T3M-10,Erlotinib,,,0.0519343800842762,0.043436449021101,train,supervised_vae
+COLO 829,Erlotinib,,,,0.04229259490966797,train,supervised_vae
+KG-1-C,Erlotinib,,,,0.032860297709703445,train,supervised_vae
+LC-1F,Erlotinib,,,,0.18273726105690002,train,supervised_vae
+MIA PaCa-2,Erlotinib,,,0.015134925954043865,0.028857797384262085,train,supervised_vae
+NCI-H1155,Erlotinib,,,0.0644206777215004,0.0709414929151535,train,supervised_vae
+SK-MEL-30,Erlotinib,,,0.005350062623620033,0.0006568569224327803,train,supervised_vae
+NCI-H2172,Erlotinib,,,,0.06380392611026764,train,supervised_vae
+OVCAR-4,Erlotinib,,,0.08904686570167542,0.17290347814559937,train,supervised_vae
+KYSE-510,Erlotinib,,,0.0072697969153523445,0.03382263332605362,train,supervised_vae
+KYSE-450,Erlotinib,,,0.2088213562965393,0.22271159291267395,train,supervised_vae
+BT-20,Erlotinib,,,0.13583120703697205,0.1435336470603943,train,supervised_vae
+HEC-1-A,Erlotinib,,,0.002704528858885169,0.009184466674923897,train,supervised_vae
+JeKo-1,Erlotinib,,,,0.07846184074878693,train,supervised_vae
+JVM-2,Erlotinib,,,,0.05211615934967995,train,supervised_vae
+EJM,Erlotinib,,,,0.06609389185905457,train,supervised_vae
+NB1,Erlotinib,,,,0.0054238601587712765,train,supervised_vae
+A-704,Erlotinib,,,,0.07789835333824158,train,supervised_vae
+F5,Erlotinib,,,,0.008515913039445877,train,supervised_vae
+NCI-H1666,Erlotinib,,,0.37953415513038635,0.40327954292297363,train,supervised_vae
+DK-MG,Erlotinib,,,0.02732880227267742,0.024289073422551155,train,supervised_vae
+KMBC-2,Erlotinib,,,0.016026489436626434,0.17834672331809998,train,supervised_vae
+Mono-Mac-6,Erlotinib,,,,0.11532564461231232,train,supervised_vae
+COLO 800,Erlotinib,,,,0.050381653010845184,train,supervised_vae
+Hep-G2/C3A,Erlotinib,,,0.020205803215503693,0.002954154973849654,train,supervised_vae
+OCI-Ly3,Erlotinib,,,,0.0162051934748888,train,supervised_vae
+A-498,Erlotinib,,,,0.05979117751121521,train,supervised_vae
+BICR 6,Erlotinib,,,,0.1704692542552948,train,supervised_vae
+Calu-1,Erlotinib,,,0.008805246092379093,0.024072926491498947,train,supervised_vae
+LOX-IMVI,Erlotinib,,,0.02155059017241001,0.02072909101843834,train,supervised_vae
+NCI-H1184,Erlotinib,,,0.0,0.005962294992059469,train,supervised_vae
+RERF-LC-A1,Erlotinib,,,0.039469145238399506,0.01404489204287529,train,supervised_vae
+HCC4006,Erlotinib,,,0.4926633834838867,0.20201751589775085,train,supervised_vae
+SNU-1033,Erlotinib,,,,0.03792408108711243,train,supervised_vae
+U-BLC1,Erlotinib,,,,0.19637921452522278,train,supervised_vae
+LNCaP clone FGC,Erlotinib,,,,0.1192903071641922,train,supervised_vae
+SF295,Erlotinib,,,0.054866135120391846,0.0557100810110569,train,supervised_vae
+TE-11,Erlotinib,,,0.25699689984321594,0.23935483396053314,train,supervised_vae
+1321N1,Erlotinib,,,0.05883492901921272,0.05726529285311699,train,supervised_vae
+KYSE-410,Erlotinib,,,0.0661153569817543,0.058932144194841385,train,supervised_vae
+SW837,Erlotinib,,,,0.05550619587302208,train,supervised_vae
+DBTRG-05MG,Erlotinib,,,0.029529370367527008,0.07972173392772675,train,supervised_vae
+JJN-3,Erlotinib,,,,0.04972020909190178,train,supervised_vae
+BICR 31,Erlotinib,,,,0.21965479850769043,train,supervised_vae
+L-428,Erlotinib,,,0.012746384367346764,0.0049257040955126286,train,supervised_vae
+NCI-H3255,Erlotinib,,,0.5614478588104248,0.5908645987510681,train,supervised_vae
+PK-1,Erlotinib,,,0.09488140046596527,0.07904492318630219,train,supervised_vae
+KMS-26,Erlotinib,,,0.011861918494105339,0.01897967793047428,train,supervised_vae
+MOLP-2,Erlotinib,,,,0.07352621853351593,train,supervised_vae
+SK-N-BE(2),Erlotinib,,,0.008403939194977283,0.0032808715477585793,train,supervised_vae
+COLO 679,Erlotinib,,,0.0172851774841547,0.02899530529975891,train,supervised_vae
+BICR 56,Erlotinib,,,,0.28883296251296997,train,supervised_vae
+SNU-182,Erlotinib,,,0.12646253407001495,0.18017145991325378,train,supervised_vae
+NCI-H1341,Erlotinib,,,0.10301274061203003,0.004515215754508972,train,supervised_vae
+TT2609-C02,Erlotinib,,,0.07642944157123566,0.09971099346876144,train,supervised_vae
+SK-OV-3,Erlotinib,,,0.07924753427505493,0.11606726050376892,train,supervised_vae
+SNB-19,Erlotinib,,,,0.05047091096639633,train,supervised_vae
+ALL-SIL,Erlotinib,,,0.079600028693676,0.08185902237892151,train,supervised_vae
+NB4,Erlotinib,,,,0.056841082870960236,train,supervised_vae
+KMS-28BM,Erlotinib,,,,0.039280448108911514,train,supervised_vae
+SNU-886,Erlotinib,,,,0.058389563113451004,train,supervised_vae
+TOV-21G,Erlotinib,,,0.06806977093219757,0.094573475420475,train,supervised_vae
+Caov-4,Erlotinib,,,,0.0997905433177948,train,supervised_vae
+HH [Human lymphoma],Erlotinib,,,0.0,0.0038702343590557575,train,supervised_vae
+Hs 688(A).T,Erlotinib,,,,0.0217357836663723,train,supervised_vae
+Rh41,Erlotinib,,,,0.0114328283816576,train,supervised_vae
+JHH-2,Erlotinib,,,0.07645614445209503,0.05065947771072388,train,supervised_vae
+AU565,Erlotinib,,,0.04662146046757698,0.08090013265609741,train,supervised_vae
+DEL,Erlotinib,,,0.037769198417663574,0.03541216999292374,train,supervised_vae
+LXF 289,Erlotinib,,,,0.05047228932380676,train,supervised_vae
+ML-1 [Human thyroid carcinoma],Erlotinib,,,,0.07721930742263794,train,supervised_vae
+COLO 680N,Erlotinib,,,,0.25890928506851196,train,supervised_vae
+HEC-151,Erlotinib,,,0.24379590153694153,0.19634364545345306,train,supervised_vae
+SW620,Erlotinib,,,0.003228754736483097,0.020239029079675674,train,supervised_vae
+KATO III,Erlotinib,,,,0.04619564488530159,train,supervised_vae
+BT-483,Erlotinib,,,,0.0620136596262455,train,supervised_vae
+KYSE-30,Erlotinib,,,0.10740166902542114,0.24736237525939941,train,supervised_vae
+Hs 274.T,Erlotinib,,,,0.07507732510566711,train,supervised_vae
+U-343MGa,Erlotinib,,,,0.08336541056632996,train,supervised_vae
+RERF-LC-MS,Erlotinib,,,0.0,0.008520521223545074,train,supervised_vae
+ACHN,Erlotinib,,,0.1818314790725708,0.2026531845331192,train,supervised_vae
+KLM-1,Erlotinib,,,,0.15523487329483032,train,supervised_vae
+K-562,Erlotinib,,,,0.040796536952257156,train,supervised_vae
+HCC1195,Erlotinib,,,,0.17426709830760956,train,supervised_vae
+KP-2,Erlotinib,,,0.03964619338512421,0.031130053102970123,train,supervised_vae
+NCI-H1436,Erlotinib,,,,0.0009727886063046753,train,supervised_vae
+SNG-M,Erlotinib,,,0.07452930510044098,0.06635551154613495,train,supervised_vae
+COLO 704,Erlotinib,,,,0.045260991901159286,train,supervised_vae
+Detroit 562,Erlotinib,,,0.1154157817363739,0.11744578182697296,train,supervised_vae
+NCI-H322,Erlotinib,,,0.30578410625457764,0.13870926201343536,train,supervised_vae
+HSC-3,Erlotinib,,,,0.18156859278678894,train,supervised_vae
+MCAS,Erlotinib,,,0.028530478477478027,0.019380701705813408,train,supervised_vae
+NCI-H838,Erlotinib,,,,0.03971807658672333,train,supervised_vae
+MEC-2,Erlotinib,,,,0.0417436808347702,train,supervised_vae
+NCI-H2171,Erlotinib,,,,0.001024819677695632,train,supervised_vae
+IM95,Erlotinib,,,,0.06449595093727112,train,supervised_vae
+PE/CA-PJ34 (clone C12),Erlotinib,,,,0.23698700964450836,train,supervised_vae
+KPL-1,Erlotinib,,,,0.122756227850914,train,supervised_vae
+SALE,Erlotinib,,,,0.12509191036224365,train,supervised_vae
+CAL-62,Erlotinib,,,,0.04020242393016815,train,supervised_vae
+GCT,Erlotinib,,,0.029750056564807892,0.02909006178379059,train,supervised_vae
+RL,Erlotinib,,,,0.016565129160881042,train,supervised_vae
+LN-428,Erlotinib,,,,0.0721035748720169,train,supervised_vae
+SNU-410,Erlotinib,,,,0.03610207885503769,train,supervised_vae
+Hs 934.T,Erlotinib,,,,0.044829726219177246,train,supervised_vae
+BL-70,Erlotinib,,,0.007193997036665678,0.018646206706762314,train,supervised_vae
+LN-443,Erlotinib,,,,0.0406913161277771,train,supervised_vae
+TOV-112D,Erlotinib,,,0.08457241207361221,0.07978706061840057,train,supervised_vae
+COLO 792,Erlotinib,,,,0.02963627129793167,train,supervised_vae
+RS-5,Erlotinib,,,,0.025029128417372704,train,supervised_vae
+EB2,Erlotinib,,,0.05123785883188248,0.03740132600069046,train,supervised_vae
+SU-DHL-5,Erlotinib,,,,0.019921928644180298,train,supervised_vae
+NCI-H460,Erlotinib,,,,0.05635721608996391,test,supervised_vae
+EW-18,Erlotinib,,,0.029071522876620293,0.013100583106279373,test,supervised_vae
+P31/FUJ,Erlotinib,,,0.0874294564127922,0.05631231516599655,test,supervised_vae
+OPM-2,Erlotinib,,,0.07492975145578384,0.05367141589522362,test,supervised_vae
+CAL-33,Erlotinib,,,0.1472005546092987,0.18067437410354614,test,supervised_vae
+HOS,Erlotinib,,,0.06404539942741394,0.02722294069826603,test,supervised_vae
+Kasumi-1,Erlotinib,,,,0.07942179590463638,test,supervised_vae
+HCC70,Erlotinib,,,0.08587515354156494,0.18134981393814087,test,supervised_vae
+NCI-H520,Erlotinib,,,0.05442768335342407,0.01901998743414879,test,supervised_vae
+NCI-H727,Erlotinib,,,0.01850019581615925,0.000924469786696136,test,supervised_vae
+U266B1,Erlotinib,,,0.0,0.01513973530381918,test,supervised_vae
+B-CPAP,Erlotinib,,,0.12290270626544952,0.03767598420381546,test,supervised_vae
+MHH-CALL-2,Erlotinib,,,0.07514236867427826,0.06599980592727661,test,supervised_vae
+Onda 10,Erlotinib,,,,0.059352852404117584,test,supervised_vae
+SCLC-21H,Erlotinib,,,,0.001742086955346167,test,supervised_vae
+NCI-N87,Erlotinib,,,0.0,0.10357421636581421,test,supervised_vae
+KYSE-70,Erlotinib,,,0.09285585582256317,0.07515741884708405,test,supervised_vae
+G-361,Erlotinib,,,0.1051270067691803,0.08201724290847778,test,supervised_vae
+Jiyoye,Erlotinib,,,0.23150134086608887,0.01345350593328476,test,supervised_vae
+Rh1,Erlotinib,,,0.16460278630256653,0.0079928208142519,test,supervised_vae
+KOSC-2,Erlotinib,,,,0.27313095331192017,test,supervised_vae
+CHL-1,Erlotinib,,,0.06549322605133057,0.07672814279794693,test,supervised_vae
+SW954,Erlotinib,,,,0.2422713041305542,test,supervised_vae
+CAL-51,Erlotinib,,,0.11326133459806442,0.08742363750934601,test,supervised_vae
+KALS-1,Erlotinib,,,0.06329750269651413,0.03354655206203461,test,supervised_vae
+HOP-92,Erlotinib,,,0.13806475698947906,0.023749861866235733,test,supervised_vae
+OAW28,Erlotinib,,,0.053503479808568954,0.1657586395740509,test,supervised_vae
+SNU-449,Erlotinib,,,0.1119994968175888,0.0838327556848526,test,supervised_vae
+Becker,Erlotinib,,,0.055969566106796265,0.05141318589448929,test,supervised_vae
+HT-1080,Erlotinib,,,0.10349445790052414,0.021868102252483368,test,supervised_vae
+RT-112,Erlotinib,,,0.0817115306854248,0.19742202758789062,test,supervised_vae
+RCC10RGB,Erlotinib,,,0.2218848317861557,0.182505264878273,test,supervised_vae
+VA-ES-BJ,Erlotinib,,,0.033694617450237274,0.07041770219802856,test,supervised_vae
+MMAc-SF,Erlotinib,,,,0.035719133913517,test,supervised_vae
+OAW42,Erlotinib,,,0.11542242765426636,0.14175958931446075,test,supervised_vae
+NCI-H358,Erlotinib,,,0.10449909418821335,0.15328730642795563,test,supervised_vae
+Calu-3,Erlotinib,,,0.03836726024746895,0.25239038467407227,test,supervised_vae
+MKN45,Erlotinib,,,0.0,0.17589128017425537,test,supervised_vae
+HCC2157,Erlotinib,,,0.014490225352346897,0.17318382859230042,test,supervised_vae
+ATN-1,Erlotinib,,,0.010383378714323044,0.012624287977814674,test,supervised_vae
+HSC-4,Erlotinib,,,0.1843920350074768,0.18579627573490143,test,supervised_vae
+NCI-H378,Erlotinib,,,,0.00682830810546875,test,supervised_vae
+Huh-7,Erlotinib,,,0.05610639229416847,0.10183292627334595,test,supervised_vae
+A101D,Erlotinib,,,0.104497991502285,0.02669367752969265,test,supervised_vae
+KS-1 [Human glioblastoma],Erlotinib,,,0.005680494010448456,0.06580294668674469,test,supervised_vae
+8-MG-BA,Erlotinib,,,0.07098349928855896,0.025081193074584007,test,supervised_vae
+BB65-RCC,Erlotinib,,,,0.123198963701725,test,supervised_vae
+TCCSUP,Erlotinib,,,0.12909185886383057,0.02064291015267372,test,supervised_vae
+ACN,Erlotinib,,,,0.044329769909381866,test,supervised_vae
+SW900,Erlotinib,,,0.034436099231243134,0.014851887710392475,test,supervised_vae
+SK-MEL-3,Erlotinib,,,,0.049283385276794434,test,supervised_vae
+BHY,Erlotinib,,,,0.19569659233093262,test,supervised_vae
+MHH-ES-1,Erlotinib,,,0.04788264259696007,0.020758524537086487,test,supervised_vae
+HPAF-II,Erlotinib,,,0.09372549504041672,0.06788358837366104,test,supervised_vae
+HCC1143,Erlotinib,,,0.1082848533987999,0.17992210388183594,test,supervised_vae
+RD,Erlotinib,,,0.01366574876010418,0.007882623001933098,test,supervised_vae
+PFSK-1,Erlotinib,,,0.03986416757106781,0.05891969054937363,test,supervised_vae
+DV-90,Erlotinib,,,,0.13744309544563293,test,supervised_vae
+MDA-MB-453,Erlotinib,,,0.06835882365703583,0.028729159384965897,test,supervised_vae
+ES3,Erlotinib,,,,0.0037052135448902845,test,supervised_vae
+NCI-H1522,Erlotinib,,,,0.0019769459031522274,test,supervised_vae
+NCI-H524,Erlotinib,,,0.0,0.0,test,supervised_vae
+KE-37,Erlotinib,,,0.1146736592054367,0.06702020764350891,test,supervised_vae
+ES8,Erlotinib,,,0.08162985742092133,0.01728999614715576,test,supervised_vae
+U-118MG,Erlotinib,,,0.11946503072977066,0.038544610142707825,test,supervised_vae
+Hs 578T,Erlotinib,,,0.0,0.02648255228996277,test,supervised_vae
+UMC-11,Erlotinib,,,0.20898011326789856,0.03774033486843109,test,supervised_vae
+FaDu,Erlotinib,,,0.0919298529624939,0.17032542824745178,test,supervised_vae
+NCI-H441,Erlotinib,,,0.148940309882164,0.17176267504692078,test,supervised_vae
+LB996-RCC,Erlotinib,,,0.24448375403881073,0.10461200773715973,test,supervised_vae
+Calu-6,Erlotinib,,,0.07222560048103333,0.014171862974762917,test,supervised_vae
+S-117,Erlotinib,,,,0.053611185401678085,test,supervised_vae
+SW48,Erlotinib,,,0.26832813024520874,0.25063759088516235,test,supervised_vae
+P12-Ichikawa,Erlotinib,,,0.05652341991662979,0.06651127338409424,test,supervised_vae
+BFTC-909,Erlotinib,,,0.1099378913640976,0.04640582576394081,test,supervised_vae
+A3/Kawakami,Erlotinib,,,0.08846236020326614,0.01144595816731453,test,supervised_vae
+Lu-134-A,Erlotinib,,,,0.01586005836725235,test,supervised_vae
+COLO 824,Erlotinib,,,0.14078915119171143,0.07345835119485855,test,supervised_vae
+ALL-PO,Erlotinib,,,0.029406465590000153,0.0465644896030426,test,supervised_vae
+639V,Erlotinib,,,0.11340188980102539,0.018185598775744438,test,supervised_vae
+CTV-1,Erlotinib,,,0.028552794829010963,0.05327055603265762,test,supervised_vae
+NCI-H526,Erlotinib,,,0.022402280941605568,0.002186633413657546,test,supervised_vae
+BEN,Erlotinib,,,,0.02167077548801899,test,supervised_vae
+MHH-NB-11,Erlotinib,,,,0.012018490582704544,test,supervised_vae
+PF-382,Erlotinib,,,0.0,0.07477295398712158,test,supervised_vae
+IPC-298,Erlotinib,,,,0.07112303376197815,test,supervised_vae
+CAL-120,Erlotinib,,,0.08271375298500061,0.10679814964532852,test,supervised_vae
+J82,Erlotinib,,,0.0940096452832222,0.05164305865764618,test,supervised_vae
+MFE-296,Erlotinib,,,0.09145545959472656,0.09436595439910889,test,supervised_vae
+HD-MY-Z,Erlotinib,,,0.01965077966451645,0.0817480981349945,test,supervised_vae
+D-502MG,Erlotinib,,,,0.03023366630077362,test,supervised_vae
+SNU-387,Erlotinib,,,0.027711376547813416,0.03181912377476692,test,supervised_vae
+SW982,Erlotinib,,,0.07955674827098846,0.039319783449172974,test,supervised_vae
+HCC1954,Erlotinib,,,0.058555129915475845,0.16830989718437195,test,supervised_vae
+ECC4,Erlotinib,,,,0.0,test,supervised_vae
+TE-5,Erlotinib,,,0.057409729808568954,0.06362977623939514,test,supervised_vae
+NCI-H2087,Erlotinib,,,0.052555594593286514,0.1478872150182724,test,supervised_vae
+COLO 668,Erlotinib,,,0.07907785475254059,0.002124760765582323,test,supervised_vae
+LP-1,Erlotinib,,,,0.00501636229455471,test,supervised_vae
+P30/OHK,Erlotinib,,,0.1530376672744751,0.0673210397362709,test,supervised_vae
+BT-549,Erlotinib,,,0.0024211981799453497,0.022707264870405197,test,supervised_vae
+MN-60,Erlotinib,,,0.009549953043460846,0.03660811111330986,test,supervised_vae
+CAL-85-1,Erlotinib,,,0.010184268467128277,0.2347469925880432,test,supervised_vae
+OVCAR-5,Erlotinib,,,0.058288972824811935,0.06672051548957825,test,supervised_vae
+ST486,Erlotinib,,,0.05474543571472168,0.04153665155172348,test,supervised_vae
+697,Erlotinib,,,0.07232151180505753,0.07709774374961853,test,supervised_vae
+NCI-H2227,Erlotinib,,,,0.0,test,supervised_vae
+BFTC-905,Erlotinib,,,0.003112225327640772,0.2087194323539734,test,supervised_vae
+SKG-IIIa,Erlotinib,,,0.06559675931930542,0.19983550906181335,test,supervised_vae
+ESS-1,Erlotinib,,,0.0,0.035667162388563156,test,supervised_vae
+NCI-H1618,Erlotinib,,,,0.007359320297837257,test,supervised_vae
+COLO 684,Erlotinib,,,0.027062062174081802,0.0022890723776072264,test,supervised_vae
+COR-L279,Erlotinib,,,0.04211466386914253,0.011108378879725933,test,supervised_vae
+HDLM-2,Erlotinib,,,0.1491764336824417,0.01062514167279005,test,supervised_vae
+KMOE-2,Erlotinib,,,0.020199738442897797,0.06492680311203003,test,supervised_vae
+Karpas-422,Erlotinib,,,0.015187690034508705,0.0027097496204078197,test,supervised_vae
+LB373-MEL-D,Erlotinib,,,,0.025798741728067398,test,supervised_vae
+22Rv1,Erlotinib,,,0.06973609328269958,0.017249295487999916,test,supervised_vae
+H9,Erlotinib,,,0.037321895360946655,0.021971745416522026,test,supervised_vae
+HCC2218,Erlotinib,,,,0.14209787547588348,test,supervised_vae
+M14,Erlotinib,,,0.0906892940402031,0.02428974211215973,test,supervised_vae
+COLO 205,Erlotinib,,,0.03441523015499115,0.07522749900817871,test,supervised_vae
+A4/Fukuda,Erlotinib,,,0.024766676127910614,0.005976250395178795,test,supervised_vae
+SN12C,Erlotinib,,,0.09116033464670181,0.03076346404850483,test,supervised_vae
+SJNB-6,Erlotinib,,,,0.004506553988903761,test,supervised_vae
+IGR-1,Erlotinib,,,0.028560450300574303,0.03236744552850723,test,supervised_vae
+769-P,Erlotinib,,,0.09986668080091476,0.1867462396621704,test,supervised_vae
+THP-1,Erlotinib,,,,0.07556530833244324,test,supervised_vae
+ECC12,Erlotinib,,,,0.021773185580968857,test,supervised_vae
+MKN1,Erlotinib,,,0.12270672619342804,0.06002069264650345,test,supervised_vae
+NCI-H1650,Erlotinib,,,0.2415136694908142,0.1796269416809082,test,supervised_vae
+NKM-1,Erlotinib,,,0.050603028386831284,0.07084131985902786,test,supervised_vae
+SJNB-7,Erlotinib,,,0.06243514642119408,0.023594189435243607,test,supervised_vae
+C2BBe1,Erlotinib,,,0.1278989166021347,0.12604662775993347,test,supervised_vae
+MZ-MEL-2,Erlotinib,,,,0.005419228225946426,test,supervised_vae
+MKN7,Erlotinib,,,0.12891434133052826,0.2064044177532196,test,supervised_vae
+CGTH-W-1,Erlotinib,,,0.029421018436551094,0.028554413467645645,test,supervised_vae
+CTB-1,Erlotinib,,,,0.025277988985180855,test,supervised_vae
+Mel Ho,Erlotinib,,,,0.06956003606319427,test,supervised_vae
+SW1990,Erlotinib,,,0.050260279327631,0.10802052170038223,test,supervised_vae
+SK-MEL-28,Erlotinib,,,,0.019480496644973755,test,supervised_vae
+Capan-2,Erlotinib,,,0.08827880024909973,0.043129678815603256,test,supervised_vae
+RVH-421,Erlotinib,,,,0.058976128697395325,test,supervised_vae
+Panc 10.05,Erlotinib,,,0.06216586008667946,0.0590704120695591,test,supervised_vae
+EFM-19,Erlotinib,,,0.0027004650328308344,0.05557382479310036,test,supervised_vae
+DoHH2,Erlotinib,,,,0.01221783459186554,test,supervised_vae
+EW-12,Erlotinib,,,,0.004776326939463615,test,supervised_vae
+SK-UT-1,Erlotinib,,,0.004961461294442415,0.004346141126006842,test,supervised_vae
+TT,Erlotinib,,,0.054679371416568756,0.0,test,supervised_vae
+HCT 116,Erlotinib,,,0.01290152221918106,0.02127528190612793,test,supervised_vae
+DMS 79,Erlotinib,,,,0.00367750390432775,test,supervised_vae
+SR,Erlotinib,,,0.0,0.020694103091955185,test,supervised_vae
+NCI-H661,Erlotinib,,,0.018379157409071922,0.07396958768367767,test,supervised_vae
+KNS-81-FD,Erlotinib,,,,0.07124824821949005,test,supervised_vae
+MFH-ino,Erlotinib,,,0.07135582715272903,0.02357162907719612,test,supervised_vae
+LK-2,Erlotinib,,,0.044205572456121445,0.06962519139051437,test,supervised_vae
+COLO 320HSR,Erlotinib,,,0.001803976483643055,0.04841294884681702,test,supervised_vae
+NCI-H345,Erlotinib,,,,0.006740557961165905,test,supervised_vae
+MDA-MB-468,Erlotinib,,,0.10874033719301224,0.1746172159910202,test,supervised_vae
+NCI-H2405,Erlotinib,,,0.1328354775905609,0.10522082448005676,test,supervised_vae
+HCC1395,Erlotinib,,,0.08629857748746872,0.07059204578399658,test,supervised_vae
+SK-MM-2,Erlotinib,,,0.0,0.14597296714782715,test,supervised_vae
+KNS-62,Erlotinib,,,0.048180412501096725,0.07375016808509827,test,supervised_vae
+MDA-MB-231,Erlotinib,,,0.09190887957811356,0.0434175580739975,test,supervised_vae
+PA-1,Erlotinib,,,0.12664523720741272,0.01076742447912693,test,supervised_vae
+Panc 03.27,Erlotinib,,,0.10814817994832993,0.059240441769361496,test,supervised_vae
+CMK,Erlotinib,,,,0.0654735341668129,test,supervised_vae
+LB1047-RCC,Erlotinib,,,,0.029835280030965805,test,supervised_vae
+SCC-4,Erlotinib,,,0.0,0.17077553272247314,test,supervised_vae
+HuCC-T1,Erlotinib,,,0.15750440955162048,0.09414587169885635,test,supervised_vae
+NCI-H1793,Erlotinib,,,0.11268028616905212,0.14029279351234436,test,supervised_vae
+CCF-STTG1,Erlotinib,,,,0.05633235350251198,test,supervised_vae
+COLO 741,Erlotinib,,,,0.10791857540607452,test,supervised_vae
+PLC/PRF/5,Erlotinib,,,,0.17409361898899078,test,supervised_vae
+SW684,Erlotinib,,,0.05497532710433006,0.008476581424474716,test,supervised_vae
+HuP-T4,Erlotinib,,,0.18272824585437775,0.19318461418151855,test,supervised_vae
+NCI-H2141,Erlotinib,,,0.07694056630134583,-0.00028945825761184096,test,supervised_vae
+OVCAR-8,Erlotinib,,,0.061797384172677994,0.06313782185316086,test,supervised_vae
+SNU-C1,Erlotinib,,,0.019169718027114868,0.16188937425613403,test,supervised_vae
+NCI-H510A,Erlotinib,,,,0.0,test,supervised_vae
+NCI-H522,Erlotinib,,,0.03295173868536949,0.06142690032720566,test,supervised_vae
+COR-L88,Erlotinib,,,0.02574830688536167,0.0004102490493096411,test,supervised_vae
+SW1783,Erlotinib,,,0.030495529994368553,0.03713708370923996,test,supervised_vae
+ES1,Erlotinib,,,0.08219873905181885,0.011811228469014168,test,supervised_vae
+NCI-H28,Erlotinib,,,0.1465621441602707,0.13130921125411987,test,supervised_vae
+SiHa,Erlotinib,,,0.10029903799295425,0.08794552832841873,test,supervised_vae
+MPP 89,Erlotinib,,,0.12048513442277908,0.022787263616919518,test,supervised_vae
+OS-RC-2,Erlotinib,,,0.07740211486816406,0.08727271109819412,test,supervised_vae
+NBsusSR,Erlotinib,,,,0.0075501794926822186,test,supervised_vae
+KYSE-520,Erlotinib,,,0.29440051317214966,0.2186971753835678,test,supervised_vae
+NCI-H1975,Erlotinib,,,0.13408710062503815,0.08460309356451035,test,supervised_vae
+DMS 273,Erlotinib,,,0.10211563110351562,0.001074515050277114,test,supervised_vae
+HSC-2,Erlotinib,,,0.1270434558391571,0.1901557743549347,test,supervised_vae
+IA-LM,Erlotinib,,,0.0,0.020395413041114807,test,supervised_vae
+Karpas-299,Erlotinib,,,0.03932269662618637,0.0209399051964283,test,supervised_vae
+SNU-16,Erlotinib,,,0.03348880261182785,0.11230060458183289,test,supervised_vae
+LB2241-RCC,Erlotinib,,,,0.08630244433879852,test,supervised_vae
+EC-GI-10,Erlotinib,,,0.21536816656589508,0.20459246635437012,test,supervised_vae
+RS4;11,Erlotinib,,,0.07373012602329254,0.06066469848155975,test,supervised_vae
+EPLC-272H,Erlotinib,,,0.08631063997745514,0.2283409833908081,test,supervised_vae
+MCF-7,Erlotinib,,,0.08461083471775055,0.07500624656677246,test,supervised_vae
+HMV-II,Erlotinib,,,0.006245903670787811,0.05639518052339554,test,supervised_vae
+MDA-MB-361,Erlotinib,,,0.10488313436508179,0.09331616014242172,test,supervised_vae
+CCRF-CEM,Erlotinib,,,0.02231111004948616,0.05358029156923294,test,supervised_vae
+Lu-139,Erlotinib,,,,0.001189816277474165,test,supervised_vae
+TE-8,Erlotinib,,,0.1304607391357422,0.10176268219947815,test,supervised_vae
+CAL-27,Erlotinib,,,0.164004847407341,0.3211890161037445,test,supervised_vae
+EoL-1,Erlotinib,,,0.05597755312919617,0.08213347941637039,test,supervised_vae
+HT-1197,Erlotinib,,,0.15052659809589386,0.07874053716659546,test,supervised_vae
+TE-15,Erlotinib,,,,0.3045916259288788,test,supervised_vae
+D-423MG,Erlotinib,,,,0.04280325770378113,test,supervised_vae
+U-251MG,Erlotinib,,,0.11249099671840668,0.04805578663945198,test,supervised_vae
+SW1116,Erlotinib,,,0.10432963073253632,0.0738266333937645,test,supervised_vae
+HCC1187,Erlotinib,,,0.026996878907084465,0.08541542291641235,test,supervised_vae
+MFE-280,Erlotinib,,,0.0,0.10239298641681671,test,supervised_vae
+D-542MG,Erlotinib,,,,0.027912039309740067,test,supervised_vae
+NCI-H596,Erlotinib,,,0.0035515206400305033,0.13270147144794464,test,supervised_vae
+OVCAR-3,Erlotinib,,,0.1319362074136734,0.14863070845603943,test,supervised_vae
+SU-DHL-1,Erlotinib,,,,0.028271496295928955,test,supervised_vae
+NCI-H1355,Erlotinib,,,0.06546512246131897,0.16325277090072632,test,supervised_vae
+PC-14,Erlotinib,,,0.45215949416160583,0.12352830916643143,test,supervised_vae
+RKO,Erlotinib,,,0.0,0.0012572479899972677,test,supervised_vae
+EFO-21,Erlotinib,,,0.09693414717912674,0.07286927103996277,test,supervised_vae
+DU4475,Erlotinib,,,0.007942589931190014,0.019967464730143547,test,supervised_vae
+NCI-H2196,Erlotinib,,,,0.017301352694630623,test,supervised_vae
+SW626,Erlotinib,,,0.046228788793087006,0.02958008646965027,test,supervised_vae
+SBC-1,Erlotinib,,,,0.006034750957041979,test,supervised_vae
+SJNB-10,Erlotinib,,,0.024565180763602257,0.003157279919832945,test,supervised_vae
+DSH1,Erlotinib,,,0.06761287897825241,0.20849448442459106,test,supervised_vae
+SW1088,Erlotinib,,,0.11002412438392639,0.06725964695215225,test,supervised_vae
+RPMI-8226,Erlotinib,,,0.02576533704996109,0.008857756853103638,test,supervised_vae
+U-698-M,Erlotinib,,,0.0,0.020135968923568726,test,supervised_vae
+MeWo,Erlotinib,,,0.0031589483842253685,0.08554943650960922,test,supervised_vae
+HLE,Erlotinib,,,0.08428549021482468,0.05908479541540146,test,supervised_vae
+SW948,Erlotinib,,,0.02463996224105358,0.12630268931388855,test,supervised_vae
+KP-N-YN,Erlotinib,,,0.062270645052194595,0.0016932454891502857,test,supervised_vae
+HCC38,Erlotinib,,,0.03727341815829277,0.194729745388031,test,supervised_vae
+LS1034,Erlotinib,,,0.08312447369098663,0.038972944021224976,test,supervised_vae
+SK-CO-1,Erlotinib,,,0.09241043031215668,0.11170023679733276,test,supervised_vae
+5637,Erlotinib,,,0.16928857564926147,0.23046329617500305,test,supervised_vae
+EM-2,Erlotinib,,,0.04536241665482521,0.08093556761741638,test,supervised_vae
+GaMG,Erlotinib,,,0.0,0.037534356117248535,test,supervised_vae
+LAMA-84,Erlotinib,,,0.02719874680042267,0.06587311625480652,test,supervised_vae
+SAS,Erlotinib,,,0.13596029579639435,0.1415507197380066,test,supervised_vae
+EW-22,Erlotinib,,,0.033467378467321396,0.0072289686650037766,test,supervised_vae
+MFM-223,Erlotinib,,,0.06430798023939133,0.03077526018023491,test,supervised_vae
+HT-1376,Erlotinib,,,0.16332949697971344,0.09779967367649078,test,supervised_vae
+LB2518-MEL,Erlotinib,,,,0.06483811140060425,test,supervised_vae
+ETK-1,Erlotinib,,,0.09622740745544434,0.14381390810012817,test,supervised_vae
+YH-13,Erlotinib,,,0.10833051800727844,0.022742506116628647,test,supervised_vae
+OC 314,Erlotinib,,,0.06632290780544281,0.0605999119579792,test,supervised_vae
+SUP-T1,Erlotinib,,,0.0627601221203804,0.031078927218914032,test,supervised_vae
+SKM-1,Erlotinib,,,,0.07045640051364899,test,supervised_vae
+NCI-H1838,Erlotinib,,,0.008247661404311657,0.20297543704509735,test,supervised_vae
+EFO-27,Erlotinib,,,,0.14248400926589966,test,supervised_vae
+TGBC11TKB,Erlotinib,,,0.06950289756059647,0.09850580990314484,test,supervised_vae
+C32 [Human melanoma],Erlotinib,,,0.06562075018882751,0.017108038067817688,test,supervised_vae
+IST-SL2,Erlotinib,,,0.11947661638259888,0.044719211757183075,test,supervised_vae
+CW-2,Erlotinib,,,0.05749534070491791,0.17658284306526184,test,supervised_vae
+AM-38,Erlotinib,,,0.00968497060239315,0.014007216319441795,test,supervised_vae
+AN3-CA,Erlotinib,,,0.007331796456128359,0.010808415710926056,test,supervised_vae
+NCI-H2170,Erlotinib,,,0.1718304455280304,0.1979156881570816,test,supervised_vae
+DJM-1,Erlotinib,,,,0.21137495338916779,test,supervised_vae
+NCI-H1693,Erlotinib,,,0.19793498516082764,0.12946456670761108,test,supervised_vae
+LB831-BLC,Erlotinib,,,0.00919275265187025,0.026878872886300087,test,supervised_vae
+NCI-H1299,Erlotinib,,,0.0033601324539631605,0.060380030423402786,test,supervised_vae
+TC-YIK,Erlotinib,,,0.10401031374931335,0.02598569355905056,test,supervised_vae
+IST-MEL1,Erlotinib,,,0.003378000110387802,0.047402575612068176,test,supervised_vae
+MOLT-4,Erlotinib,,,0.0657527893781662,0.08171888440847397,test,supervised_vae
+EGI-1,Erlotinib,,,0.05771930143237114,0.08867165446281433,test,supervised_vae
+CAL-54,Erlotinib,,,0.2791457176208496,0.22647801041603088,test,supervised_vae
+Caki-1,Erlotinib,,,,0.20065084099769592,test,supervised_vae
+ES7,Erlotinib,,,0.04592268913984299,0.003488019108772278,test,supervised_vae
+BC-3,Erlotinib,,,,0.009081196039915085,test,supervised_vae
+SW872,Erlotinib,,,0.040219344198703766,0.056759193539619446,test,supervised_vae
+NOS-1 [Human osteosarcoma],Erlotinib,,,0.06144902855157852,0.006610632874071598,test,supervised_vae
+HAL-01,Erlotinib,,,0.011537827551364899,0.054225265979766846,test,supervised_vae
+KYSE-270,Erlotinib,,,0.11800847202539444,0.19753099977970123,test,supervised_vae
+Raji,Erlotinib,,,0.07333393394947052,0.0023571355268359184,test,supervised_vae
+C-33 A,Erlotinib,,,0.09344276785850525,0.027319617569446564,test,supervised_vae
+NALM-6,Erlotinib,,,0.04458443075418472,0.051774341613054276,test,supervised_vae
+SW780,Erlotinib,,,0.03220953792333603,0.19082187116146088,test,supervised_vae
+SK-MG-1,Erlotinib,,,0.07043386250734329,0.008637985214591026,test,supervised_vae
+MES-SA,Erlotinib,,,0.11685976386070251,0.026320867240428925,test,supervised_vae
+Daoy,Erlotinib,,,0.06870429962873459,0.030712580308318138,test,supervised_vae
+HT-144,Erlotinib,,,0.009597049094736576,0.03770331293344498,test,supervised_vae
+LCLC-103H,Erlotinib,,,0.0,0.03331177681684494,test,supervised_vae
+TE-6,Erlotinib,,,0.24535955488681793,0.20451635122299194,test,supervised_vae
+UM-UC-3,Erlotinib,,,0.007154165767133236,0.004297517240047455,test,supervised_vae
+CaR-1,Erlotinib,,,0.06710944324731827,0.2004517912864685,test,supervised_vae
+DB,Erlotinib,,,0.061203885823488235,0.012698633596301079,test,supervised_vae
+RCM-1 [Human rectum adenocarcinoma],Erlotinib,,,0.0764819085597992,0.05286433547735214,test,supervised_vae
+T-47D,Erlotinib,,,0.138447567820549,0.09657208621501923,test,supervised_vae
+TK-10,Erlotinib,,,0.1410517692565918,0.17870251834392548,test,supervised_vae
+WRO,Erlotinib,,,0.018343336880207062,0.03641846030950546,test,supervised_vae
+HCC1806,Erlotinib,,,0.17313559353351593,0.2022927701473236,test,supervised_vae
+NCI-H2081,Erlotinib,,,,0.00289311446249485,test,supervised_vae
+NUGC-3,Erlotinib,,,0.23977325856685638,0.14905798435211182,test,supervised_vae
+A-427,Erlotinib,,,,0.11575838923454285,test,supervised_vae
+Lu-135,Erlotinib,,,0.0,0.0012621897039934993,test,supervised_vae
+A-172,Erlotinib,,,0.039547596126794815,0.020211845636367798,test,supervised_vae
+NCI-H250,Erlotinib,,,,0.005920310504734516,test,supervised_vae
+D-392MG,Erlotinib,,,0.05782357603311539,0.02003718726336956,test,supervised_vae
+HOP-62,Erlotinib,,,0.043344464153051376,0.09050207585096359,test,supervised_vae
+NCI-H82,Erlotinib,,,0.037550006061792374,0.0,test,supervised_vae
+NCI-H2291,Erlotinib,,,,0.15421175956726074,test,supervised_vae
+FTC-133,Erlotinib,,,0.12646326422691345,0.10061720013618469,test,supervised_vae
+NCI-H810,Erlotinib,,,0.036988239735364914,0.01210007444024086,test,supervised_vae
+SK-MEL-5,Erlotinib,,,,0.1253940612077713,test,supervised_vae
+YAPC,Erlotinib,,,0.03283406421542168,0.017007870599627495,test,supervised_vae
+NCI-H747,Erlotinib,,,0.21022790670394897,0.07132290303707123,test,supervised_vae
+SW1573,Erlotinib,,,0.025043154135346413,0.04274901747703552,test,supervised_vae
+TGBC24TKB,Erlotinib,,,0.12839221954345703,0.10126746445894241,test,supervised_vae
+NCI-H1993,Erlotinib,,,0.023961970582604408,0.2789372503757477,test,supervised_vae
+NCI-H2228,Erlotinib,,,0.009271517395973206,0.10184098780155182,test,supervised_vae
+KNS-42,Erlotinib,,,,0.014989012852311134,test,supervised_vae
+PSN1,Erlotinib,,,0.09509527683258057,0.020791400223970413,test,supervised_vae
+A-549,Erlotinib,,,0.09358473867177963,0.10110189765691757,test,supervised_vae
+HCE-4,Erlotinib,,,,0.06531840562820435,test,supervised_vae
+TE-1,Erlotinib,,,0.24495911598205566,0.10538232326507568,test,supervised_vae
+MDA-MB-134-VI,Erlotinib,,,,0.019838236272335052,test,supervised_vae
+NCI-H650,Erlotinib,,,0.0,0.02892187610268593,test,supervised_vae
+AsPC-1,Erlotinib,,,0.04372124746441841,0.07252801209688187,test,supervised_vae
+MS-1 [Human lung carcinoma],Erlotinib,,,0.0,-0.0005857260548509657,test,supervised_vae
+CFPAC-1,Erlotinib,,,0.1968095451593399,0.04242579638957977,test,supervised_vae
+Karpas-45,Erlotinib,,,0.07555875182151794,0.058978550136089325,test,supervised_vae
+YKG-1,Erlotinib,,,,0.0373651422560215,test,supervised_vae
+Loucy,Erlotinib,,,0.1267227679491043,0.0633755698800087,test,supervised_vae
+HT,Erlotinib,,,,0.0058465925976634026,test,supervised_vae
+A2058,Erlotinib,,,0.07913603633642197,0.027473805472254753,test,supervised_vae
+NCI-H1703,Erlotinib,,,0.049256592988967896,0.05270896852016449,test,supervised_vae
+BV-173,Erlotinib,,,0.027744125574827194,0.07588071376085281,test,supervised_vae
+CP67-MEL,Erlotinib,,,,0.0538879930973053,test,supervised_vae
+RPMI-7951,Erlotinib,,,0.022547515109181404,0.03442835062742233,test,supervised_vae
+NCI-H1755,Erlotinib,,,0.11048678308725357,0.09348621219396591,test,supervised_vae
+CAL-148,Erlotinib,,,0.07957347482442856,0.026655163615942,test,supervised_vae
+CPC-N,Erlotinib,,,0.004777278285473585,0.0034573108423501253,test,supervised_vae
+BB30-HNC,Erlotinib,,,,0.2917640209197998,test,supervised_vae
+PC-3,Erlotinib,,,0.03143486753106117,0.05441058427095413,test,supervised_vae
+KYSE-150,Erlotinib,,,0.17199501395225525,0.11851827800273895,test,supervised_vae
+NCI-H1770,Erlotinib,,,,0.00880308449268341,test,supervised_vae
+NCI-H226,Erlotinib,,,0.07821711152791977,0.10576637089252472,test,supervised_vae
+A-673,Erlotinib,,,0.05517899990081787,0.030611444264650345,test,supervised_vae
+HuTu 80,Erlotinib,,,,0.14075788855552673,test,supervised_vae
+BALL-1,Erlotinib,,,0.03223979473114014,0.05103584751486778,test,supervised_vae
+LA-N-6,Erlotinib,,,,0.00014990364434197545,test,supervised_vae
+SHP-77,Erlotinib,,,0.0519881509244442,0.0,test,supervised_vae
+SCH,Erlotinib,,,,0.04978812485933304,test,supervised_vae
+VM-CUB-1,Erlotinib,,,0.039153724908828735,0.21952924132347107,test,supervised_vae
+UACC-62,Erlotinib,,,0.004919032100588083,0.08069030940532684,test,supervised_vae
+HuO9,Erlotinib,,,0.01670854538679123,0.007297368720173836,test,supervised_vae
+RPMI-8402,Erlotinib,,,0.12291455268859863,0.07777182757854462,test,supervised_vae
+SK-MEL-24,Erlotinib,,,0.012962289154529572,0.019502606242895126,test,supervised_vae
+SaOS-2,Erlotinib,,,0.0,0.021870840340852737,test,supervised_vae
+DMS 153,Erlotinib,,,,0.0011137687833979726,test,supervised_vae
+GI-1,Erlotinib,,,0.00535455672070384,0.07165233045816422,test,supervised_vae
+NCI-H2126,Erlotinib,,,,0.2236066609621048,test,supervised_vae
+NCI-H1792,Erlotinib,,,0.07001805305480957,0.025313667953014374,test,supervised_vae
+HCC2998,Erlotinib,,,0.07577911019325256,0.14022426307201385,test,supervised_vae
+T24,Erlotinib,,,,0.08510926365852356,test,supervised_vae
+CP66-MEL,Erlotinib,,,,0.04217785596847534,test,supervised_vae
+D-247MG,Erlotinib,,,,0.02912062034010887,test,supervised_vae
+SNU-5,Erlotinib,,,0.018421107903122902,0.07326650619506836,test,supervised_vae
+Reh,Erlotinib,,,0.001760192564688623,0.04837040230631828,test,supervised_vae
+SK-MES-1,Erlotinib,,,0.14084932208061218,0.14280645549297333,test,supervised_vae
+ARH-77,Erlotinib,,,0.0,0.011690579354763031,test,supervised_vae
+WM115,Erlotinib,,,0.01671660505235195,0.01231805607676506,test,supervised_vae
+A-253,Erlotinib,,,0.056731969118118286,0.22589418292045593,test,supervised_vae
+NCI-H716,Erlotinib,,,0.17845481634140015,0.004831111058592796,test,supervised_vae
+KM12,Erlotinib,,,0.11399415880441666,0.12612001597881317,test,supervised_vae
+MDA-MB-415,Erlotinib,,,0.07613129913806915,0.05562572926282883,test,supervised_vae
+TALL-1 [Human adult T-ALL],Erlotinib,,,,0.047303684055805206,test,supervised_vae
+TE-10,Erlotinib,,,,0.2143803834915161,test,supervised_vae
+UACC-257,Erlotinib,,,0.0959194228053093,0.04943045228719711,test,supervised_vae
+NCI-H2107,Erlotinib,,,,0.0,test,supervised_vae
+D-566MG,Erlotinib,,,,0.016464972868561745,test,supervised_vae
+HCC1599,Erlotinib,,,,0.10525690019130707,test,supervised_vae
+NMC-G1,Erlotinib,,,,0.031403325498104095,test,supervised_vae
+CA46,Erlotinib,,,0.06020939350128174,0.030872153118252754,test,supervised_vae
+GT3TKB,Erlotinib,,,,0.0256264116615057,test,supervised_vae
+HN,Erlotinib,,,,0.13672170042991638,test,supervised_vae
+T84,Erlotinib,,,0.1259821504354477,0.0809142142534256,test,supervised_vae
+8505C,Erlotinib,,,0.09208527207374573,0.1023649200797081,test,supervised_vae
+NCI-H446,Erlotinib,,,0.07927269488573074,0.009205923415720463,test,supervised_vae
+NCI-H1563,Erlotinib,,,0.142215296626091,0.07962474972009659,test,supervised_vae
+TGW,Erlotinib,,,0.01655658893287182,0.005802632309496403,test,supervised_vae
+Capan-1,Erlotinib,,,0.11261990666389465,0.09880141913890839,test,supervised_vae
+SK-LU-1,Erlotinib,,,0.014437472447752953,0.020375767722725868,test,supervised_vae
+LS411N,Erlotinib,,,0.0,0.09696498513221741,test,supervised_vae
+GMS-10,Erlotinib,,,,0.05550503730773926,test,supervised_vae
+EW-11,Erlotinib,,,0.01660323515534401,0.013021278195083141,test,supervised_vae
+DMS 114,Erlotinib,,,0.06039055809378624,0.006910344585776329,test,supervised_vae
+NCI-H630,Erlotinib,,,,0.10385826230049133,test,supervised_vae
+SNU-475,Erlotinib,,,,0.05110170319676399,test,supervised_vae
+IST-Mes1,Erlotinib,,,0.034140635281801224,0.0457419715821743,test,supervised_vae
+IM-9,Erlotinib,,,0.007212891709059477,0.016896214336156845,test,supervised_vae
+MEG-01,Erlotinib,,,0.044805511832237244,0.04030178487300873,test,supervised_vae
+OE19,Erlotinib,,,0.014224073849618435,0.15716566145420074,test,supervised_vae
+CAMA-1,Erlotinib,,,0.024632813408970833,0.04953835904598236,test,supervised_vae
+NCI-H1651,Erlotinib,,,0.035106759518384933,0.07354936748743057,test,supervised_vae
+HCC1937,Erlotinib,,,0.15212175250053406,0.17119717597961426,test,supervised_vae
+NCI-H1048,Erlotinib,,,0.06826617568731308,0.00917677953839302,test,supervised_vae
+KO52,Erlotinib,,,,0.06755328178405762,test,supervised_vae
+LC4-1,Erlotinib,,,0.04724707081913948,0.07775941491127014,test,supervised_vae
+D-336MG,Erlotinib,,,,0.053341709077358246,test,supervised_vae
+RMG-I,Erlotinib,,,0.22536586225032806,0.2910963296890259,test,supervised_vae
+LS513,Erlotinib,,,,0.12999248504638672,test,supervised_vae
+SW1463,Erlotinib,,,0.14899715781211853,0.12054294347763062,test,supervised_vae
+SNU-1,Erlotinib,,,0.14582321047782898,0.058074913918972015,test,supervised_vae
+Daudi,Erlotinib,,,0.04123428091406822,0.017533082515001297,test,supervised_vae
+SCC-9,Erlotinib,,,0.10254313051700592,0.24414072930812836,test,supervised_vae
+D-263MG,Erlotinib,,,0.043079253286123276,0.025563860312104225,test,supervised_vae
+NCI-H2342,Erlotinib,,,0.0755230188369751,0.2727743089199066,test,supervised_vae
+A-431,Erlotinib,,,,0.12532779574394226,test,supervised_vae
+SBC-5,Erlotinib,,,0.08986181765794754,0.035555656999349594,test,supervised_vae
+Panc 08.13,Erlotinib,,,0.10837885737419128,0.06548435986042023,test,supervised_vae
+NCI-H1395,Erlotinib,,,,0.2302457094192505,test,supervised_vae
+TYK-nu,Erlotinib,,,0.14256860315799713,0.008004415780305862,test,supervised_vae
+Ca Ski,Erlotinib,,,0.17150817811489105,0.23605775833129883,test,supervised_vae
+EKVX,Erlotinib,,,,0.16149455308914185,test,supervised_vae
+ONS-76,Erlotinib,,,0.02610629051923752,0.06998296082019806,test,supervised_vae
+TE-12,Erlotinib,,,,0.2821173071861267,test,supervised_vae
+786-O,Erlotinib,,,0.16353602707386017,0.06188804283738136,test,supervised_vae
+A2780,Erlotinib,,,0.04801738262176514,0.0022715048398822546,test,supervised_vae
+BL-41,Erlotinib,,,0.011838492006063461,0.026374656707048416,test,supervised_vae
+CAS-1,Erlotinib,,,0.022647414356470108,0.0457942932844162,test,supervised_vae
+HTC-C3,Erlotinib,,,0.07868031412363052,0.17112445831298828,test,supervised_vae
+NCI-H1304,Erlotinib,,,,0.008313242346048355,test,supervised_vae
+SK-MEL-2,Erlotinib,,,0.0,0.04097215086221695,test,supervised_vae
+HT-55,Erlotinib,,,0.13779161870479584,0.10392628610134125,test,supervised_vae
+LCLC-97TM1,Erlotinib,,,0.0013339044526219368,0.12192767858505249,test,supervised_vae
+SK-N-FI,Erlotinib,,,0.05259318649768829,0.022319121286273003,test,supervised_vae
+U-87MG ATCC,Erlotinib,,,0.10346858203411102,0.018959522247314453,test,supervised_vae
+IST-SL1,Erlotinib,,,,0.003397152991965413,test,supervised_vae
+SJNB-14,Erlotinib,,,0.06771685183048248,0.0068087149411439896,test,supervised_vae
+LoVo,Erlotinib,,,0.15001340210437775,0.12748613953590393,test,supervised_vae
+WSU-NHL,Erlotinib,,,0.0,0.006521193310618401,test,supervised_vae
+SW1710,Erlotinib,,,0.07189112901687622,0.1655762493610382,test,supervised_vae
+L-363,Erlotinib,,,0.05003935098648071,0.009839236736297607,test,supervised_vae
+NCI-H2347,Erlotinib,,,0.017300009727478027,0.08006327599287033,test,supervised_vae
+NCI-H292,Erlotinib,,,,0.21155625581741333,test,supervised_vae
+MG-63,Erlotinib,,,0.04218766838312149,0.016055863350629807,test,supervised_vae
+NCI-H2052,Erlotinib,,,0.09733337163925171,0.052339352667331696,test,supervised_vae
+IGROV-1,Erlotinib,,,0.2687426507472992,0.18127340078353882,test,supervised_vae
+AGS,Erlotinib,,,0.011950889602303505,0.07048259675502777,test,supervised_vae
+Ca9-22,Erlotinib,,,0.2045409381389618,0.1727619469165802,test,supervised_vae
+ES6,Erlotinib,,,0.009409919381141663,0.0036094188690185547,test,supervised_vae
+Kuramochi,Erlotinib,,,0.03746925666928291,0.14391349256038666,test,supervised_vae
+SCC-15,Erlotinib,,,0.18703511357307434,0.21427929401397705,test,supervised_vae
+Mel JuSo,Erlotinib,,,0.0,0.01673283614218235,test,supervised_vae
+BE-13,Erlotinib,,,0.14778153598308563,0.05592655390501022,test,supervised_vae
+HuO-3N1,Erlotinib,,,0.05787477269768715,0.02812081016600132,test,supervised_vae
+HEL,Erlotinib,,,,0.06893078982830048,test,supervised_vae
+KYSE-180,Erlotinib,,,0.11975494772195816,0.22574327886104584,test,supervised_vae
+Caov-3,Erlotinib,,,,0.11864984035491943,test,supervised_vae
+LB647-SCLC,Erlotinib,,,,0.005828737746924162,test,supervised_vae
+NCI-H64,Erlotinib,,,0.050909120589494705,0.0,test,supervised_vae
+NCI-H209,Erlotinib,,,0.023677058517932892,0.001925875898450613,test,supervised_vae
+LN-405,Erlotinib,,,0.03727833181619644,0.06320837885141373,test,supervised_vae
+HT-29,Erlotinib,,,0.049706488847732544,0.04899025708436966,test,supervised_vae
+OE33,Erlotinib,,,0.07879529893398285,0.08261000365018845,test,supervised_vae
+LS123,Erlotinib,,,0.06422748416662216,0.07261839509010315,test,supervised_vae
+NCI-H23,Erlotinib,,,0.05381118506193161,0.032047852873802185,test,supervised_vae
+GR-ST,Erlotinib,,,0.05094308406114578,0.023336101323366165,test,supervised_vae
+HT-3,Erlotinib,,,0.08728126436471939,0.19275161623954773,test,supervised_vae
+ZR-75-30,Erlotinib,,,0.05904379114508629,0.07104665040969849,test,supervised_vae
+HuP-T3,Erlotinib,,,0.08198078721761703,0.021599670872092247,test,supervised_vae
+NCI-H2452,Erlotinib,,,0.0656169205904007,0.10946345329284668,test,supervised_vae
+MKN28,Erlotinib,,,0.05923917144536972,0.09248215705156326,test,supervised_vae
+J.RT3-T3.5,Erlotinib,,,,0.06680585443973541,test,supervised_vae
+VMRC-RCZ,Erlotinib,,,0.07882645726203918,0.07138185948133469,test,supervised_vae
+MDA-MB-157,Erlotinib,,,0.03252832591533661,0.05793860927224159,test,supervised_vae
+GP5d,Erlotinib,,,0.12122190743684769,0.1327778398990631,test,supervised_vae
+HCC1419,Erlotinib,,,0.042196717113256454,0.1255357563495636,test,supervised_vae
+NCI-H1437,Erlotinib,,,,0.14825670421123505,test,supervised_vae
+KU-19-19,Erlotinib,,,0.048150692135095596,0.15789714455604553,test,supervised_vae
+UO-31,Erlotinib,,,,0.09191310405731201,test,supervised_vae
+SW962,Erlotinib,,,,0.164992555975914,test,supervised_vae
+KP-4,Erlotinib,,,0.05530988797545433,0.03820113465189934,test,supervised_vae
+SNU-C2B,Erlotinib,,,0.052343230694532394,0.11115548759698868,test,supervised_vae
+SCC-25,Erlotinib,,,,0.14609330892562866,test,supervised_vae
+ME-180,Erlotinib,,,0.16112592816352844,0.11637764424085617,test,supervised_vae
+GCIY,Erlotinib,,,0.104588583111763,0.19530023634433746,test,supervised_vae
+H4,Erlotinib,,,0.06207311898469925,0.03251815214753151,test,supervised_vae
+K5,Erlotinib,,,0.05337323620915413,0.023254327476024628,test,supervised_vae
+Ramos.2G6.4C10,Erlotinib,,,0.037024494260549545,0.01772952824831009,test,supervised_vae
+SK-LMS-1,Erlotinib,,,0.0,0.08200404047966003,test,supervised_vae
+HGC-27,Erlotinib,,,0.10083470493555069,0.0,test,supervised_vae
+CHP-212,Erlotinib,,,0.04677761718630791,0.005714518949389458,test,supervised_vae
+TE-9,Erlotinib,,,0.1237233430147171,0.11744152754545212,test,supervised_vae
+SK-N-DZ,Erlotinib,,,0.1908777505159378,0.0,test,supervised_vae
+A-375,Erlotinib,,,0.06326363235712051,0.018198860809206963,test,supervised_vae
+NCI-H1092,Erlotinib,,,0.046796757727861404,0.00018966826610267162,test,supervised_vae
+ABC-1,Erlotinib,,,,0.23139818012714386,test,supervised_vae
+COR-L23,Erlotinib,,,0.12703728675842285,0.007457268424332142,test,supervised_vae
+HL-60,Erlotinib,,,0.007114278618246317,0.09339243918657303,test,supervised_vae
+T98G,Erlotinib,,,0.01928713358938694,0.07897533476352692,test,supervised_vae
+SW1417,Erlotinib,,,0.06162284314632416,0.015446835197508335,test,supervised_vae
+BHT-101,Erlotinib,,,0.07657819241285324,0.08107197284698486,test,supervised_vae
+MSTO-211H,Erlotinib,,,0.15538586676120758,0.08869333565235138,test,supervised_vae
+647V,Erlotinib,,,0.11705467849969864,0.16256433725357056,test,supervised_vae
+SF126,Erlotinib,,,,0.036776185035705566,test,supervised_vae
+Evsa-T,Erlotinib,,,0.08499553799629211,0.08617594838142395,test,supervised_vae
+ML-2,Erlotinib,,,0.0,0.08999735116958618,test,supervised_vae
+ES5,Erlotinib,,,,0.005653396714478731,test,supervised_vae
+CAL-12T,Erlotinib,,,,0.1957998275756836,test,supervised_vae
+Lu-99A,Erlotinib,,,0.08173374831676483,0.03512571007013321,test,supervised_vae
+SF539,Erlotinib,,,0.10709715634584427,0.044196635484695435,test,supervised_vae
+ChaGo-K-1,Erlotinib,,,,0.1373617947101593,test,supervised_vae
+MOLT-16,Erlotinib,,,0.028037410229444504,0.06275007128715515,test,supervised_vae
+NCI-H2029,Erlotinib,,,,0.018399622291326523,test,supervised_vae
+NOMO-1,Erlotinib,,,0.005204362329095602,0.06814470887184143,test,supervised_vae
+NH-12,Erlotinib,,,0.09296922385692596,0.016401544213294983,test,supervised_vae
+HO-1-N-1,Erlotinib,,,0.10734950751066208,0.26549676060676575,test,supervised_vae
+SK-HEP-1,Erlotinib,,,0.1322633922100067,0.036637939512729645,test,supervised_vae
+CAL-72,Erlotinib,,,0.025858262553811073,0.011173145845532417,test,supervised_vae
+DMS 53,Erlotinib,,,0.08403197675943375,0.034568578004837036,test,supervised_vae
+NCI-H2009,Erlotinib,,,0.0468892902135849,0.23848547041416168,test,supervised_vae
+COLO 678,Erlotinib,,,0.1312405914068222,0.07977455854415894,test,supervised_vae
+OMC-1 [Human cervical carcinoma],Erlotinib,,,,0.15171340107917786,test,supervised_vae
+SiMa,Erlotinib,,,0.0,-0.0003848765045404434,test,supervised_vae
+NCI-H2030,Erlotinib,,,,0.13782638311386108,test,supervised_vae
+SK-N-AS,Erlotinib,,,0.034471545368433,4.61587674749353e-08,test,supervised_vae
+RXF 393L,Erlotinib,,,,0.12364338338375092,test,supervised_vae
+BxPC-3,Erlotinib,,,0.05637460574507713,0.2064068764448166,test,supervised_vae
+HCT 15,Erlotinib,,,0.061263903975486755,0.08949635922908783,test,supervised_vae
+DU145,Erlotinib,,,0.05042564496397972,0.21526391804218292,test,supervised_vae
+Lu-65,Erlotinib,,,0.042142268270254135,0.028399258852005005,test,supervised_vae
+KGN,Erlotinib,,,0.059976451098918915,0.02290154993534088,test,supervised_vae
+SF268,Erlotinib,,,0.0926661416888237,0.023034891113638878,test,supervised_vae
+EW-1,Erlotinib,,,0.07209478318691254,0.01660686358809471,test,supervised_vae
+CAL-39,Erlotinib,,,0.31853675842285156,0.22294770181179047,test,supervised_vae
+EW-24,Erlotinib,,,0.003977042622864246,0.0044501242227852345,test,supervised_vae
+KINGS-1,Erlotinib,,,0.02772403322160244,0.034258224070072174,test,supervised_vae
+NCI-H1573,Erlotinib,,,0.19257976114749908,0.19672822952270508,test,supervised_vae
+JVM-3,Erlotinib,,,0.0436716228723526,0.07899162918329239,test,supervised_vae
+KYSE-140,Erlotinib,,,0.16227829456329346,0.3055969178676605,test,supervised_vae
+MOLT-13,Erlotinib,,,0.002216119086369872,0.0873667448759079,test,supervised_vae
+H-EMC-SS,Erlotinib,,,0.016833484172821045,0.003323541022837162,test,supervised_vae
+LC-1F,Erlotinib,,,,0.12190129607915878,test,supervised_vae
+MIA PaCa-2,Erlotinib,,,0.020126881077885628,0.02294432371854782,test,supervised_vae
+NCI-H1155,Erlotinib,,,0.20391517877578735,0.02376149594783783,test,supervised_vae
+SK-MEL-30,Erlotinib,,,,0.02463880553841591,test,supervised_vae
+OVCAR-4,Erlotinib,,,0.06406882405281067,0.14795202016830444,test,supervised_vae
+KYSE-510,Erlotinib,,,,0.11871685087680817,test,supervised_vae
+MRK-nu-1,Erlotinib,,,0.014379004947841167,0.07772177457809448,test,supervised_vae
+KYSE-450,Erlotinib,,,0.24971424043178558,0.2572544813156128,test,supervised_vae
+BT-20,Erlotinib,,,0.08170372992753983,0.16873474419116974,test,supervised_vae
+NCI-H1666,Erlotinib,,,0.23988838493824005,0.27776670455932617,test,supervised_vae
+OCUB-M,Erlotinib,,,0.08278577029705048,0.11008140444755554,test,supervised_vae
+GAK,Erlotinib,,,0.055071789771318436,0.08082053065299988,test,supervised_vae
+DK-MG,Erlotinib,,,0.08783505111932755,0.03365086019039154,test,supervised_vae
+SJNB-13,Erlotinib,,,0.0,0.013227775692939758,test,supervised_vae
+Mono-Mac-6,Erlotinib,,,0.010475161485373974,0.1205807700753212,test,supervised_vae
+COLO 800,Erlotinib,,,,0.047202907502651215,test,supervised_vae
+Hep-G2/C3A,Erlotinib,,,0.0412973091006279,0.033190641552209854,test,supervised_vae
+A-498,Erlotinib,,,0.03605199605226517,0.10217321664094925,test,supervised_vae
+Calu-1,Erlotinib,,,,0.035230860114097595,test,supervised_vae
+LOX-IMVI,Erlotinib,,,0.12028055638074875,0.02777346968650818,test,supervised_vae
+MZ-MEL-7,Erlotinib,,,,0.049372464418411255,test,supervised_vae
+LNCaP clone FGC,Erlotinib,,,0.020882129669189453,0.052827514708042145,test,supervised_vae
+SF295,Erlotinib,,,,0.06831905990839005,test,supervised_vae
+TE-11,Erlotinib,,,,0.14514467120170593,test,supervised_vae
+EW-13,Erlotinib,,,0.06481175124645233,0.010854420252144337,test,supervised_vae
+KYSE-410,Erlotinib,,,0.13976818323135376,0.13321813941001892,test,supervised_vae
+SW837,Erlotinib,,,0.06828158348798752,0.060042619705200195,test,supervised_vae
+DBTRG-05MG,Erlotinib,,,0.13248662650585175,0.06540163606405258,test,supervised_vae
+DOK,Erlotinib,,,0.352487713098526,0.3271026909351349,test,supervised_vae
+L-428,Erlotinib,,,0.14828163385391235,0.01405112911015749,test,supervised_vae
+SW13,Erlotinib,,,0.14095763862133026,0.07612085342407227,test,supervised_vae
+TUR,Erlotinib,,,0.020698226988315582,0.06658335775136948,test,supervised_vae
+COLO 679,Erlotinib,,,0.02929946780204773,0.03838329017162323,test,supervised_vae
+KP-N-YS,Erlotinib,,,,0.0012086695060133934,test,supervised_vae
+LB771-HNC,Erlotinib,,,0.09326677024364471,0.13107267022132874,test,supervised_vae
+TGBC1TKB,Erlotinib,,,0.051035866141319275,0.18370909988880157,test,supervised_vae
+HEC-1,Erlotinib,,,0.08707618713378906,0.05140020698308945,test,supervised_vae
+SK-OV-3,Erlotinib,,,0.13908632099628448,0.15881916880607605,test,supervised_vae
+DG-75,Erlotinib,,,0.005751616321504116,0.04003309831023216,test,supervised_vae
+KY821,Erlotinib,,,0.0033592425752431154,0.0739092230796814,test,supervised_vae
+Caov-4,Erlotinib,,,0.11997713148593903,0.09865592420101166,test,supervised_vae
+HH [Human lymphoma],Erlotinib,,,0.0,0.01029052585363388,test,supervised_vae
+DEL,Erlotinib,,,0.170371413230896,0.035795457661151886,test,supervised_vae
+LXF 289,Erlotinib,,,0.10419809073209763,0.054329462349414825,test,supervised_vae
+SW620,Erlotinib,,,0.0216219462454319,0.017706841230392456,test,supervised_vae
+COLO 680N,Erlotinib,,,0.05663193389773369,0.2390642911195755,test,supervised_vae
+Onda 11,Erlotinib,,,,0.03705345466732979,test,supervised_vae
+RERF-LC-MS,Erlotinib,,,,0.06512187421321869,test,supervised_vae
+ACHN,Erlotinib,,,0.24275849759578705,0.19255730509757996,test,supervised_vae
+NCI-H1436,Erlotinib,,,,0.00716056302189827,test,supervised_vae
+SNG-M,Erlotinib,,,0.07317743450403214,0.02401229552924633,test,supervised_vae
+BB49-HNC,Erlotinib,,,0.06490319967269897,0.04787053167819977,test,supervised_vae
+Detroit 562,Erlotinib,,,0.11305572837591171,0.16944140195846558,test,supervised_vae
+EW-16,Erlotinib,,,0.11820603162050247,0.011788764968514442,test,supervised_vae
+HSC-3,Erlotinib,,,0.13450530171394348,0.2657829523086548,test,supervised_vae
+NCI-H838,Erlotinib,,,,0.08708982169628143,test,supervised_vae
+NCI-H2171,Erlotinib,,,,0.02141416072845459,test,supervised_vae
+SK-NEP-1,Erlotinib,,,,0.02440556138753891,test,supervised_vae
+CAL-62,Erlotinib,,,0.07042910903692245,0.072715625166893,test,supervised_vae
+GCT,Erlotinib,,,0.02226492203772068,0.03412124514579773,test,supervised_vae
+RL,Erlotinib,,,,0.018013322725892067,test,supervised_vae
+BL-70,Erlotinib,,,,0.019364047795534134,test,supervised_vae
+EB2,Erlotinib,,,0.0429537370800972,0.010159476660192013,test,supervised_vae
+M059J,Erlotinib,,,0.10154681652784348,0.027835935354232788,test,supervised_vae
