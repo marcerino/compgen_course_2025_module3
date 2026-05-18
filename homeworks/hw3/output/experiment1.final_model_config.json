@@ -2,31 +2,31 @@
   "model_class": "DirectPred",
   "model_module": "flexynesis.models.direct_pred",
   "input_dims": [
-    17
+    16
   ],
   "layers": [
     "all"
   ],
-  "device_type": "cpu",
+  "device_type": "gpu",
   "target_variables": [
     "Erlotinib"
   ],
   "surv_event_var": null,
   "surv_time_var": null,
   "config": {
-    "latent_dim": "105",
-    "hidden_dim_factor": 0.25503043695984917,
-    "lr": 0.00362561763457623,
-    "supervisor_hidden_dim": "22",
-    "epochs": 500,
-    "batch_size": "32"
+    "latent_dim": "29",
+    "hidden_dim_factor": 0.20483217734851655,
+    "lr": 0.009169447873981284,
+    "supervisor_hidden_dim": "27",
+    "epochs": "500",
+    "batch_size": "64"
   },
-  "current_epoch": 20,
+  "current_epoch": 30,
   "num_layers": 1,
-  "latent_dim": "105",
-  "hidden_dim_factor": 0.25503043695984917,
-  "lr": 0.00362561763457623,
-  "supervisor_hidden_dim": "22",
-  "epochs": 500,
-  "batch_size": "32"
+  "latent_dim": "29",
+  "hidden_dim_factor": 0.20483217734851655,
+  "lr": 0.009169447873981284,
+  "supervisor_hidden_dim": "27",
+  "epochs": "500",
+  "batch_size": "64"
 }

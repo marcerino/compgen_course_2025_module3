@@ -1,25 +1,25 @@
 {
   "model_class": "supervised_vae",
   "model_module": "flexynesis.models.supervised_vae",
-  "device_type": "cpu",
+  "device_type": "gpu",
   "target_variables": [
     "Erlotinib"
   ],
   "surv_event_var": null,
   "surv_time_var": null,
   "config": {
-    "latent_dim": "103",
-    "hidden_dim_factor": 0.5,
-    "supervisor_hidden_dim": "31",
-    "lr": 0.0009031222821131423,
+    "latent_dim": "110",
+    "hidden_dim_factor": 0.3334043832731858,
+    "supervisor_hidden_dim": "8",
+    "lr": 0.0009823807494195708,
     "epochs": "500",
     "batch_size": "128"
   },
-  "current_epoch": 299,
-  "latent_dim": "103",
-  "hidden_dim_factor": 0.5,
-  "supervisor_hidden_dim": "31",
-  "lr": 0.0009031222821131423,
+  "current_epoch": 251,
+  "latent_dim": "110",
+  "hidden_dim_factor": 0.3334043832731858,
+  "supervisor_hidden_dim": "8",
+  "lr": 0.0009823807494195708,
   "epochs": "500",
   "batch_size": "128"
 }

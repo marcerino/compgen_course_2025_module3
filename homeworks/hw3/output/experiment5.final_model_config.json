@@ -9,26 +9,26 @@
     "mutation",
     "cnv"
   ],
-  "device_type": "cpu",
+  "device_type": "gpu",
   "target_variables": [
     "Erlotinib"
   ],
   "surv_event_var": null,
   "surv_time_var": null,
   "config": {
-    "latent_dim": "105",
-    "hidden_dim_factor": 0.25503043695984917,
-    "lr": 0.00362561763457623,
-    "supervisor_hidden_dim": "22",
-    "epochs": 500,
-    "batch_size": "32"
+    "latent_dim": "127",
+    "hidden_dim_factor": 0.21793734474531,
+    "lr": 0.004619333963624205,
+    "supervisor_hidden_dim": "25",
+    "epochs": "500",
+    "batch_size": "128"
   },
-  "current_epoch": 17,
+  "current_epoch": 30,
   "num_layers": 2,
-  "latent_dim": "105",
-  "hidden_dim_factor": 0.25503043695984917,
-  "lr": 0.00362561763457623,
-  "supervisor_hidden_dim": "22",
-  "epochs": 500,
-  "batch_size": "32"
+  "latent_dim": "127",
+  "hidden_dim_factor": 0.21793734474531,
+  "lr": 0.004619333963624205,
+  "supervisor_hidden_dim": "25",
+  "epochs": "500",
+  "batch_size": "128"
 }

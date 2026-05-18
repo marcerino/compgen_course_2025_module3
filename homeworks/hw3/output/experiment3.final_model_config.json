@@ -9,26 +9,26 @@
     "mutation",
     "rna"
   ],
-  "device_type": "cpu",
+  "device_type": "gpu",
   "target_variables": [
     "Erlotinib"
   ],
   "surv_event_var": null,
   "surv_time_var": null,
   "config": {
-    "latent_dim": "121",
-    "hidden_dim_factor": 0.2002336297523043,
-    "lr": 0.009647685075720105,
-    "supervisor_hidden_dim": "23",
-    "epochs": 500,
-    "batch_size": "32"
+    "latent_dim": "112",
+    "hidden_dim_factor": 0.5,
+    "lr": 0.01,
+    "supervisor_hidden_dim": "32",
+    "epochs": "500",
+    "batch_size": "64"
   },
-  "current_epoch": 16,
+  "current_epoch": 19,
   "num_layers": 2,
-  "latent_dim": "121",
-  "hidden_dim_factor": 0.2002336297523043,
-  "lr": 0.009647685075720105,
-  "supervisor_hidden_dim": "23",
-  "epochs": 500,
-  "batch_size": "32"
+  "latent_dim": "112",
+  "hidden_dim_factor": 0.5,
+  "lr": 0.01,
+  "supervisor_hidden_dim": "32",
+  "epochs": "500",
+  "batch_size": "64"
 }

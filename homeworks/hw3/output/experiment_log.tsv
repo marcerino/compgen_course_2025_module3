@@ -1,3 +1,4 @@
+experiment_id	model	data_types	fusion	gnn_conv
 experiment1	DirectPred	mutation	early	NA
 experiment2	DirectPred	mutation,rna	early	NA
 experiment3	DirectPred	mutation,rna	intermediate	NA
